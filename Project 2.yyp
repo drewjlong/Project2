@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "f38206ef-fc66-4a14-8004-0278a1224e68",
+            "Value": {
+                "id": "5af230b8-fff1-4c5c-a920-96ca6d454a38",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "b3c807d6-4423-42ae-853c-a9615104fd4e",
