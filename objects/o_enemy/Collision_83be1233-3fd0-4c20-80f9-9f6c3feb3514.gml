@@ -1,4 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-obj_player.y += 3;
+if other.x < x {
+	x += .1
+	other.x -= .1
+}
+else {
+	x -= .1
+	other.x += .1
+}

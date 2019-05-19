@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-obj_player.y += 3;
+attacking = false
+following = true
+attackPos = 0

@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-obj_player.y -= 5;
+obj_player.y -= 3;

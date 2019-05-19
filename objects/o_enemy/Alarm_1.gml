@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-obj_player.y += 3;
+sprite_index = spr_enemy
+instance_destroy(enemyWeapon)
+alarm_set(2,30)
