@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "009e2509-352c-4bb1-bad2-7433008a7c17",
+            "Value": {
+                "id": "0145fe7e-e808-4141-b5bc-f9a3c019444b",
+                "resourcePath": "sprites\\spr_playerPlaceholderSS\\spr_playerPlaceholderSS.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "03cc1749-ed7d-4db8-9d7e-9ee676cfc289",
             "Value": {
                 "id": "25d8eae5-51a1-4080-80bf-14e6a7eacd8c",
@@ -68,6 +76,14 @@
                 "id": "453a0943-a952-4841-89b6-7ee0db7bb16d",
                 "resourcePath": "views\\10f791ce-9d96-4438-ace5-35b6395e5008.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1cd3e359-d8dd-4c8f-8623-819a9ba21887",
+            "Value": {
+                "id": "cce0d428-f696-4833-8036-9895daf815c8",
+                "resourcePath": "sprites\\spr_playerPlaceholderSW\\spr_playerPlaceholderSW.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -215,6 +231,14 @@
             }
         },
         {
+            "Key": "a477dd1d-d677-4a5b-8366-4bf98eb4f773",
+            "Value": {
+                "id": "97d81ed3-ea5d-4026-8cbf-99e00e8cadc2",
+                "resourcePath": "sprites\\spr_playerPlaceholderSN\\spr_playerPlaceholderSN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a587c2ad-56fb-4fc9-8f3c-46b1ceda41dd",
             "Value": {
                 "id": "28ded063-74ce-49f9-ac4d-0c6e79c94dbf",
@@ -236,6 +260,14 @@
                 "id": "39b037ae-c311-4676-8203-71c052a4b373",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b1b435b2-2282-421f-9f8d-e96216d47402",
+            "Value": {
+                "id": "3f004b83-9b5b-4436-8faa-251d42a5efce",
+                "resourcePath": "sprites\\spr_playerPlaceholderSE\\spr_playerPlaceholderSE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
