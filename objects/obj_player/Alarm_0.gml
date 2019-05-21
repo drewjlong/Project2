@@ -11,3 +11,4 @@ if(global.position = 1){
 } else if(global.position = 4){
 	sprite_index = spr_playerPlaceholderSN;
 }
+invincible = false;

@@ -5,5 +5,5 @@ if(global.enemyHealth == 2){
 	global.enemyHealth -= 1;
 } else if(global.enemyHealth == 1){
 	global.enemyHealth -= 1;
-	instance_destroy(o_enemy);
+	instance_destroy();
 }

@@ -3,3 +3,4 @@
 attacking = false
 following = true
 attackPos = 0
+invincible = false;
