@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "9717819b-c186-45e7-9185-5f849ad2b26c",
+            "Value": {
+                "id": "7af9dfb8-a324-4170-9fa1-b4d38a8761f5",
+                "resourcePath": "sprites\\spr_health\\spr_health.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9bdc6637-972f-4056-9d49-7e1eda66095d",
             "Value": {
                 "id": "04c427a5-f991-441f-b7d4-2cb63934fc6e",
@@ -467,6 +475,14 @@
             "Value": {
                 "id": "d80b5514-7596-4c82-9a15-aed49ca6f64d",
                 "resourcePath": "sprites\\spr_switch\\spr_switch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c3334907-9add-4b41-bab1-aa33e006ff42",
+            "Value": {
+                "id": "78b9a60c-5f50-4367-b8d1-ebbaf3ac22b1",
+                "resourcePath": "sprites\\spr_sword2\\spr_sword2.yy",
                 "resourceType": "GMSprite"
             }
         },
