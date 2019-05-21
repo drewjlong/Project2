@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "86616ea0-8896-455b-8756-b6de70696953",
+            "Value": {
+                "id": "fa0c6562-106b-4da7-8a82-f3f020964647",
+                "resourcePath": "sprites\\spr_swordSwing\\spr_swordSwing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "878e8fac-f58d-427f-a0f2-d7abb8f4f76f",
             "Value": {
                 "id": "c9a6f578-8254-4eb3-a376-52f3e21c286c",
