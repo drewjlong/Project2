@@ -12,6 +12,6 @@ if(invincible == false){
 		alarm_set(0, 30);
 	} else if(global.playerHealth == 1){
 		global.playerHealth -= 1;
-		instance_destroy(obj_player);
+		room_restart()
 	}
 }

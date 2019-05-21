@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 if(sword = true){
+	isAttacking = true
 	sprite_index = spr_playerPlaceholder;
 	if(global.position = 1){
 		instance_create_layer(x-15, y, "Weapons", obj_playerSword);

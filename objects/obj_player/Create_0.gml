@@ -6,3 +6,4 @@ global.position = 0;
 global.pressed = 0;
 global.pressed1 = false;
 invincible = false;
+isAttacking = false
