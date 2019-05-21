@@ -1,13 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-instance_destroy(obj_playerSword);
 if(global.position = 1){
-	sprite_index = spr_playerPlaceholderSW;
+	image_angle = 180;
 } else if(global.position = 2){
-	sprite_index = spr_playerPlaceholderSE;
+	image_angle = 0;
 } else if(global.position = 3){
-	sprite_index = spr_playerPlaceholderSS;
+	image_angle = 270;
 } else if(global.position = 4){
-	sprite_index = spr_playerPlaceholderSN;
+	image_angle = 90;
 }

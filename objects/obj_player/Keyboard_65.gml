@@ -1,10 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-position = 1;
+global.position = 1;
 if(sword = true){
 	sprite_index = spr_playerPlaceholderSW;
-	instance_destroy(o_enemySword);
+	instance_destroy(obj_playerSword);
 } else {
 	sprite_index = spr_playerPlaceholder
 }
