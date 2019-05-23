@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(sword = true){
+if(sword = true and isAttacking = false){
 	isAttacking = true
 	sprite_index = spr_playerPlaceholder;
 	if(global.position = 1){
