@@ -8,3 +8,4 @@ invincible = false;
 isAttacking = false
 swordAttackX = 0
 swordAttackY = 0
+canMove = true
