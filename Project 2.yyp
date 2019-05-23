@@ -271,26 +271,10 @@
             }
         },
         {
-            "Key": "74a53d47-25be-43dc-b8ee-cf5b164d3f04",
-            "Value": {
-                "id": "b9288f8b-d128-4efa-86e7-c14c388560b2",
-                "resourcePath": "objects\\obj_playerHealth\\obj_playerHealth.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "77f31444-efc7-4dba-bcec-d97fda4e2b84",
             "Value": {
                 "id": "0b15b8cb-f62f-4c70-8c1a-c0e00e9195a5",
                 "resourcePath": "objects\\obj_switch3\\obj_switch3.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "7a181f28-d5f8-43dc-8a4f-88a659242ceb",
-            "Value": {
-                "id": "ed9c38d6-fd08-4d30-868f-6b2926aaa412",
-                "resourcePath": "objects\\obj_enemyHealth\\obj_enemyHealth.yy",
                 "resourceType": "GMObject"
             }
         },
