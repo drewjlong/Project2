@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0f395953-b729-4deb-ac9a-b8b0b4357810",
+            "Value": {
+                "id": "9b05c9fa-6770-4b0e-8988-c4b6ff8a838b",
+                "resourcePath": "sprites\\spr_enemySpear\\spr_enemySpear.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10c680bf-ffcd-4c37-b92b-484bfd7ecd42",
             "Value": {
                 "id": "d36c68c7-8aee-454f-81dc-a7a55e0c0bbf",
@@ -499,14 +507,6 @@
             "Value": {
                 "id": "d80b5514-7596-4c82-9a15-aed49ca6f64d",
                 "resourcePath": "sprites\\spr_switch\\spr_switch.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c3334907-9add-4b41-bab1-aa33e006ff42",
-            "Value": {
-                "id": "78b9a60c-5f50-4367-b8d1-ebbaf3ac22b1",
-                "resourcePath": "sprites\\spr_sword2\\spr_sword2.yy",
                 "resourceType": "GMSprite"
             }
         },
