@@ -4,5 +4,6 @@ attacking = false
 following = true
 attackPos = 0
 invincible = false;
-enemyHealth = 2
+enemyHealth = 3
 vulnerable = true
+enemyWeapon = noone
