@@ -15,46 +15,6 @@
             "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
         },
         {
-            "id": "3ae4dca9-bed2-4cbf-9abc-c59a48901071",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 65,
-            "eventtype": 5,
-            "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
-        },
-        {
-            "id": "f45e7835-2bfc-4028-a009-829cc8cc9de5",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 68,
-            "eventtype": 5,
-            "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
-        },
-        {
-            "id": "6586ff13-bf4c-456c-95cf-964020b42b1a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 83,
-            "eventtype": 5,
-            "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
-        },
-        {
-            "id": "0e929779-2688-4a9a-826e-f6d71cc5c581",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 87,
-            "eventtype": 5,
-            "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
-        },
-        {
             "id": "352e8a48-e025-4baa-88ef-c7a92e436f85",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -75,7 +35,27 @@
             "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
         },
         {
-            "id": "c27ff1f3-3cae-4eb8-beda-6d6aa29ea2de",
+            "id": "a4b79c6c-0fd0-48b7-9757-cde42e032650",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "73f77827-7db2-4c75-8118-7c5ea38e7bd8",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
+        },
+        {
+            "id": "264af53e-4963-4f4c-b78e-207ceeeaf81b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 9,
+            "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
+        },
+        {
+            "id": "50437a20-ad4f-4ca0-86d8-f4cc41aeeb44",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -85,23 +65,23 @@
             "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
         },
         {
-            "id": "24557dce-1336-4b0d-aeb8-0f8be3b39d41",
+            "id": "5e365b81-73a8-41e5-ae1b-e3f5675a5e38",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 53,
-            "eventtype": 6,
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
         },
         {
-            "id": "712abf23-a286-496c-8752-0a72c9648eb0",
+            "id": "0214b9bb-e16d-4831-808b-4d2d9618fb4a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "3e4108db-968b-4afe-9ea1-fcfeb56b0182",
-            "enumb": 0,
-            "eventtype": 4,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
             "m_owner": "f38206ef-fc66-4a14-8004-0278a1224e68"
         }
     ],
@@ -123,6 +103,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "4432e30c-9c0a-45ac-a1e1-483596b39336",
+    "spriteId": "e1e7170d-2805-4994-8f8a-238db3cb653a",
     "visible": true
 }

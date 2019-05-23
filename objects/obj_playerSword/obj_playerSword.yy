@@ -5,13 +5,13 @@
     "name": "obj_playerSword",
     "eventList": [
         {
-            "id": "636c33bc-8492-47ec-b57c-8cd57d07ae18",
+            "id": "10a666fd-b91e-48cf-848e-b5994c5f3e70",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
+            "eventtype": 3,
             "m_owner": "3e4108db-968b-4afe-9ea1-fcfeb56b0182"
         }
     ],
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c3334907-9add-4b41-bab1-aa33e006ff42",
+    "spriteId": "86616ea0-8896-455b-8756-b6de70696953",
     "visible": true
 }
