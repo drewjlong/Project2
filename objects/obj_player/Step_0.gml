@@ -6,26 +6,27 @@ if place_meeting(x + hspeed*2, y + vspeed*2, o_enemy){
 	hspeed = 0
 	vspeed = 0
 }
-if direction = 0 && speed != 0 {
+if keyboard_check(ord("D")) {
 		sprite_index = spr_playerE
 		swordAttackX = obj_player.x + 5
 		swordAttackY = obj_player.y + 8
+		swordDirection = direction
 	}
-	else if direction = 180 {
+if keyboard_check(ord("A")) {
 		sprite_index = spr_playerW
 		swordAttackX = obj_player.x - 5
 		swordAttackY = obj_player.y - 8
+		swordDirection = direction
 	}
-	else if direction = 90 {
+if keyboard_check(ord("W")) {
 		sprite_index = spr_playerN
 		swordAttackX = obj_player.x + 8
 		swordAttackY = obj_player.y - 5
+		swordDirection = direction
 	}
-	else if direction = 270{
+if keyboard_check(ord("S")){
 		sprite_index = spr_playerS
 		swordAttackX = obj_player.x - 8
 		swordAttackY = obj_player.y + 5
-	}
-	else {
-		sprite_index = spr_playerS
+		swordDirection = direction
 	}
