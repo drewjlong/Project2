@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "08861999-ee77-455d-9cfc-63f84a8773f7",
+            "Value": {
+                "id": "a34759a7-0728-4a36-88e8-f9820363e729",
+                "resourcePath": "sprites\\spr_stamina1\\spr_stamina1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b184e5b-856e-43c0-b074-bcb4f6baa75c",
             "Value": {
                 "id": "5e4bc2ab-d58f-4dac-8dbd-992a11777d37",
@@ -143,10 +151,34 @@
             }
         },
         {
+            "Key": "28418692-4e85-43fa-959f-1daabe7bb7ac",
+            "Value": {
+                "id": "6e4af588-470f-4b9b-9528-2812a22f2038",
+                "resourcePath": "sprites\\spr_stamina2\\spr_stamina2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d1e7382-fb50-4905-bb9e-ea1559abf062",
+            "Value": {
+                "id": "bde40ee6-875e-4287-a9e0-5dd55111b207",
+                "resourcePath": "objects\\obj_health\\obj_health.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ef9f2f9-88a8-4bc9-8957-3e343b89de74",
             "Value": {
                 "id": "1f3b228a-9bac-4c59-91d6-572383ca07b3",
                 "resourcePath": "sprites\\spr_tiles_alternate\\spr_tiles_alternate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "327eaf23-2877-4ccd-b8b6-d197c540cbe4",
+            "Value": {
+                "id": "84b698e0-6269-445c-a651-7220d02f5f12",
+                "resourcePath": "sprites\\spr_stamina3\\spr_stamina3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +226,7 @@
             "Key": "4432e30c-9c0a-45ac-a1e1-483596b39336",
             "Value": {
                 "id": "0b8b7fa1-88a5-4708-bf04-9bfa59ca4149",
-                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourcePath": "sprites\\spr_playerPlaceholder\\spr_playerPlaceholder.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -295,6 +327,14 @@
             }
         },
         {
+            "Key": "736a9ee1-ded0-4919-8f1d-e01ba3d9b5fc",
+            "Value": {
+                "id": "abf045ff-45c4-486a-8493-821b41b3588e",
+                "resourcePath": "sprites\\spr_health3\\spr_health3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73f77827-7db2-4c75-8118-7c5ea38e7bd8",
             "Value": {
                 "id": "f765d299-0891-4771-baa6-f31f835ebe38",
@@ -335,10 +375,26 @@
             }
         },
         {
+            "Key": "7d99b94a-9cd1-432d-8a69-bae9f6015b22",
+            "Value": {
+                "id": "518f7c54-0b26-4ef4-934b-e42deb622cd3",
+                "resourcePath": "objects\\obj_stamina\\obj_stamina.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7f0409b2-5e63-4955-8ae0-ce60c7f00d27",
             "Value": {
                 "id": "6691af1f-2c04-4a3d-b127-2eef1bba54bd",
                 "resourcePath": "sprites\\spr_switch_press2\\spr_switch_press2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7fdec0da-f0a3-45f1-8496-725e1ed5ac44",
+            "Value": {
+                "id": "2e8da78f-e9d0-49c1-8deb-86f64f3cd7de",
+                "resourcePath": "sprites\\spr_health2\\spr_health2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -391,10 +447,18 @@
             }
         },
         {
+            "Key": "953ebfe2-d4d1-417d-a7b7-08fa3bf3b230",
+            "Value": {
+                "id": "1d45fa10-c40c-473b-b854-471810ad46d5",
+                "resourcePath": "sprites\\spr_stamina11\\spr_stamina11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9717819b-c186-45e7-9185-5f849ad2b26c",
             "Value": {
                 "id": "7af9dfb8-a324-4170-9fa1-b4d38a8761f5",
-                "resourcePath": "sprites\\spr_health\\spr_health.yy",
+                "resourcePath": "sprites\\spr_health1\\spr_health1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -611,6 +675,14 @@
             "Value": {
                 "id": "a62a7cea-bb51-4812-8876-12ed785b7432",
                 "resourcePath": "sprites\\spr_switch_press\\spr_switch_press.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f88c5e1d-e9ec-40ad-9d1a-725f12acbb01",
+            "Value": {
+                "id": "7f05e280-a500-439a-942b-3efe6fc1b1f5",
+                "resourcePath": "sprites\\spr_stamina0\\spr_stamina0.yy",
                 "resourceType": "GMSprite"
             }
         },

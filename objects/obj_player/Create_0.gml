@@ -10,3 +10,5 @@ swordAttackX = 0
 swordAttackY = 0
 canMove = true
 swordDirection = 0
+stamina = 3
+dash = false
