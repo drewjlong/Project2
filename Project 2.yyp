@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "072e5857-5b7b-4381-ae3c-4489b3be58be",
+            "Value": {
+                "id": "29d72f18-5b75-4696-8502-e07fbb0cfeeb",
+                "resourcePath": "sprites\\spr_enemyAttackW\\spr_enemyAttackW.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08861999-ee77-455d-9cfc-63f84a8773f7",
             "Value": {
                 "id": "a34759a7-0728-4a36-88e8-f9820363e729",
@@ -60,6 +68,14 @@
                 "id": "5e4bc2ab-d58f-4dac-8dbd-992a11777d37",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "0c35291a-2c28-4dc1-91f1-dc899e896d3d",
+            "Value": {
+                "id": "4f407261-7937-4d59-bd2c-610327fa08c5",
+                "resourcePath": "sprites\\spr_enemyAttackS\\spr_enemyAttackS.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "26e0e4b4-2b26-488b-be84-f1d727942f05",
+            "Value": {
+                "id": "da997966-c338-4751-b115-c395ea865e40",
+                "resourcePath": "sprites\\spr_enemyS\\spr_enemyS.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "281e3009-8cd8-4b67-8ecf-87068030f7e4",
             "Value": {
                 "id": "bcd71a68-3e29-4b8e-8e11-547735d5054d",
@@ -183,6 +207,14 @@
             }
         },
         {
+            "Key": "3a9d1d26-0245-4181-8648-c7a4f868cdbc",
+            "Value": {
+                "id": "7de846bb-9eb8-428a-b119-8ecdce4ce040",
+                "resourcePath": "sprites\\spr_enemyAttackE\\spr_enemyAttackE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ba6b31b-3417-4181-955d-daa4672a2d17",
             "Value": {
                 "id": "76c38c9e-b0f3-4a03-8cb1-7da87814ba72",
@@ -212,6 +244,14 @@
                 "id": "59428488-6537-4685-97e2-1c5f8aafd41c",
                 "resourcePath": "objects\\obj_door\\obj_door.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "430890fa-a191-4f11-a5b7-b20fd2d23647",
+            "Value": {
+                "id": "4c145145-266e-44e0-b905-9f57e78cfbaf",
+                "resourcePath": "sprites\\spr_enemyW\\spr_enemyW.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +295,14 @@
             }
         },
         {
+            "Key": "4f7e1a57-4398-4658-91c9-0e4de28d617d",
+            "Value": {
+                "id": "880ded47-7391-4f1b-9131-1536eaeab600",
+                "resourcePath": "sprites\\spr_enemyN\\spr_enemyN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4fa613a3-3d59-40b2-bae1-abfcdf8caa7c",
             "Value": {
                 "id": "d7149e5e-9675-4630-981b-8fd3e834182d",
@@ -291,6 +339,14 @@
             "Value": {
                 "id": "2391d174-8953-44d1-98aa-5d2e73631e6d",
                 "resourcePath": "sprites\\spr_empty\\spr_empty.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66c5b415-e764-4056-b06f-4938723a894b",
+            "Value": {
+                "id": "0a8c2458-3cb2-4570-826f-706ca28125d2",
+                "resourcePath": "sprites\\spr_enemyE\\spr_enemyE.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -364,6 +420,14 @@
                 "id": "0b15b8cb-f62f-4c70-8c1a-c0e00e9195a5",
                 "resourcePath": "objects\\obj_switch3\\obj_switch3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7994d491-4903-4e23-b5c6-5c490df288ec",
+            "Value": {
+                "id": "9b2a86d1-2dcd-426f-ac98-dc6e2ae1473d",
+                "resourcePath": "sprites\\spr_enemyAttackN\\spr_enemyAttackN.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
