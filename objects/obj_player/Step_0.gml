@@ -34,3 +34,6 @@ if keyboard_check(ord("S")){
 		swordAttackY = obj_player.y + 5
 		swordDirection = direction
 	}
+if(playerHealth == 0){
+	room_restart()
+}

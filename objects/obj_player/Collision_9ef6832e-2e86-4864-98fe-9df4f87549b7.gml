@@ -5,7 +5,4 @@ if (invincible == false){
 	invincible = true
 	alarm_set(0,30)
 	playerHealth -= 1
-	if(playerHealth == 0){
-		room_restart()
-	}
 }
