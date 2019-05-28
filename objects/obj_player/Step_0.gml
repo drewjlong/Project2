@@ -14,25 +14,25 @@ if keyboard_check(ord("D")) {
 		sprite_index = spr_playerE
 		swordAttackX = obj_player.x + 5
 		swordAttackY = obj_player.y + 8
-		swordDirection = direction
+		swordDirection = 0
 	}
 if keyboard_check(ord("A")) {
 		sprite_index = spr_playerW
 		swordAttackX = obj_player.x - 5
 		swordAttackY = obj_player.y - 8
-		swordDirection = direction
+		swordDirection = 180
 	}
 if keyboard_check(ord("W")) {
 		sprite_index = spr_playerN
 		swordAttackX = obj_player.x + 8
 		swordAttackY = obj_player.y - 5
-		swordDirection = direction
+		swordDirection = 90
 	}
 if keyboard_check(ord("S")){
 		sprite_index = spr_playerS
 		swordAttackX = obj_player.x - 8
 		swordAttackY = obj_player.y + 5
-		swordDirection = direction
+		swordDirection = 270
 	}
 if(playerHealth == 0){
 	room_restart()

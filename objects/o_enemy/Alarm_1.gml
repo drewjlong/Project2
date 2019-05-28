@@ -3,6 +3,7 @@
 instance_destroy(enemyWeapon)
 audio_play_sound(snd_enemypause,7,0);
 enemyWeapon = noone
+retreating = true
 if x < obj_player.x {
 	sprite_index = spr_enemyE
 	direction = 180
