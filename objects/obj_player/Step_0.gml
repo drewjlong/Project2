@@ -37,3 +37,4 @@ if keyboard_check(ord("S")){
 if(playerHealth == 0){
 	room_restart()
 }
+
