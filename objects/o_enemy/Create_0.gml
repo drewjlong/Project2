@@ -7,3 +7,4 @@ invincible = false;
 enemyHealth = 3
 vulnerable = true
 enemyWeapon = noone
+audio_play_sound(snd_enemyalert,8,0);

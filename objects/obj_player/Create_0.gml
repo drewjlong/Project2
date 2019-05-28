@@ -12,3 +12,4 @@ canMove = true
 swordDirection = 0
 stamina = 3
 dash = false
+

@@ -7,4 +7,5 @@ if(stamina > 0 and hasSword = true and isAttacking = false){
 	attackSword = obj_playerSword
 	isAttacking = true
 	instance_create_layer(0,0,"Weapons",attackSword)
+	audio_play_sound(snd_swordswipe,1,0);
 }
