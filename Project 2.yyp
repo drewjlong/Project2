@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "168eb94b-f3f1-4741-a17e-a44475f28af7",
+            "Value": {
+                "id": "39b99007-34cb-4223-9648-885db8874e56",
+                "resourcePath": "sprites\\spr_armorN\\spr_armorN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d1d6442-3533-493c-b4e0-0e8136e4d21b",
             "Value": {
                 "id": "9e0b5abd-ade2-476b-ba9e-95b7e1f1b351",
@@ -279,6 +287,14 @@
             }
         },
         {
+            "Key": "3f6c9f32-a39a-46e1-ae7d-fad7fdcb5f68",
+            "Value": {
+                "id": "8ce62139-ede6-4d9c-85d3-12f210d3587b",
+                "resourcePath": "sprites\\spr_armorW\\spr_armorW.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "430890fa-a191-4f11-a5b7-b20fd2d23647",
             "Value": {
                 "id": "4c145145-266e-44e0-b905-9f57e78cfbaf",
@@ -364,6 +380,14 @@
                 "id": "b4ac9449-d7e4-40cb-9cd2-27f59184f927",
                 "resourcePath": "sounds\\snd_puzzlesolved\\snd_puzzlesolved.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "5d60c51d-e577-4cfa-a0d8-857671e8d080",
+            "Value": {
+                "id": "2240044f-d24d-4155-93d8-e57aeaee152a",
+                "resourcePath": "sprites\\spr_armorS\\spr_armorS.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -847,6 +871,14 @@
             }
         },
         {
+            "Key": "ec9119eb-3c8f-4991-af3e-1884a2fcc85f",
+            "Value": {
+                "id": "a99277c1-8427-4fcb-987a-5f8f65169bc2",
+                "resourcePath": "sprites\\spr_armorE\\spr_armorE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed03407e-f897-4643-aec8-29dd055eaf0e",
             "Value": {
                 "id": "3d48a8b7-bd44-4731-b0e2-8ceea409b18f",
@@ -916,6 +948,14 @@
                 "id": "b63cabc0-dd4e-4325-b256-8fb93d07eaf0",
                 "resourcePath": "sprites\\spr_enemyAttack\\spr_enemyAttack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fef52bc4-df7d-4cb6-a437-2b5ae93ee2fb",
+            "Value": {
+                "id": "31110d5f-de63-48b3-ba49-0c793528921f",
+                "resourcePath": "views\\fef52bc4-df7d-4cb6-a437-2b5ae93ee2fb.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
