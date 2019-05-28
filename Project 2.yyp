@@ -66,7 +66,7 @@
             "Key": "0b184e5b-856e-43c0-b074-bcb4f6baa75c",
             "Value": {
                 "id": "5e4bc2ab-d58f-4dac-8dbd-992a11777d37",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_underworld\\r_underworld.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -668,6 +668,14 @@
                 "id": "d80b5514-7596-4c82-9a15-aed49ca6f64d",
                 "resourcePath": "sprites\\spr_switch\\spr_switch.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c83a91ac-3d7d-407b-b04c-9081efd608ec",
+            "Value": {
+                "id": "b1961c4b-46c6-4b37-9de1-066d2a3ae397",
+                "resourcePath": "rooms\\r_overworld\\r_overworld.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
