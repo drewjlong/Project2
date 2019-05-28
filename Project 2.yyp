@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "4c7a1299-76bd-4fdb-b926-e41f94830b88",
+            "Value": {
+                "id": "b1145d56-9aa5-4c92-9293-80cab007e331",
+                "resourcePath": "sounds\\snd_basicmusic\\snd_basicmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4f7e1a57-4398-4658-91c9-0e4de28d617d",
             "Value": {
                 "id": "880ded47-7391-4f1b-9131-1536eaeab600",
