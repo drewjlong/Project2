@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_switchpressed1",
     "eventList": [
-        
+        {
+            "id": "ee56df04-414d-445b-b6dd-3969b020ab7d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a096e4ad-ee91-4ac2-b1a9-f4661cc18b90"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
