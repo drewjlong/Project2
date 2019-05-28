@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "2b502ea0-40a1-4c86-a852-5fddcb02d706",
+            "Value": {
+                "id": "0aacecfd-4297-40d8-9e53-705f655463f2",
+                "resourcePath": "sounds\\snd_playerwalk\\snd_playerwalk.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2d1e7382-fb50-4905-bb9e-ea1559abf062",
             "Value": {
                 "id": "bde40ee6-875e-4287-a9e0-5dd55111b207",
@@ -431,6 +439,14 @@
             }
         },
         {
+            "Key": "78e75547-317d-4f31-b641-6a29246daef5",
+            "Value": {
+                "id": "3c160ab7-e93b-4f77-bc69-78eb866b96f4",
+                "resourcePath": "sounds\\snd_swordswipe\\snd_swordswipe.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7994d491-4903-4e23-b5c6-5c490df288ec",
             "Value": {
                 "id": "9b2a86d1-2dcd-426f-ac98-dc6e2ae1473d",
@@ -647,11 +663,27 @@
             }
         },
         {
+            "Key": "bc95acb8-2088-4b99-a674-cb3fcb0971a5",
+            "Value": {
+                "id": "45e72a48-e1a9-40fa-b424-5685d1eacb2b",
+                "resourcePath": "sounds\\snd_playerdead\\snd_playerdead.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "bf58b577-6560-4b29-9acd-f09395bc0d29",
             "Value": {
                 "id": "345956d3-3703-4559-9b2e-1363fb97214e",
                 "resourcePath": "sprites\\spr_door\\spr_door.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf758bf0-08d5-4bff-a78e-8d2e56c6e237",
+            "Value": {
+                "id": "006e75a2-d977-4c66-86b2-e0c07ccb46cd",
+                "resourcePath": "sounds\\snd_enemydead\\snd_enemydead.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -663,11 +695,27 @@
             }
         },
         {
+            "Key": "c2299f7d-6b28-43f1-a4a3-a10cfe5fadf5",
+            "Value": {
+                "id": "33190938-4576-4b8b-9048-5a7ffb7d4efe",
+                "resourcePath": "sounds\\snd_enemypause\\snd_enemypause.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c2b2e9dc-d925-4e4a-89ea-2e4d1017a859",
             "Value": {
                 "id": "d80b5514-7596-4c82-9a15-aed49ca6f64d",
                 "resourcePath": "sprites\\spr_switch\\spr_switch.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c594d8fa-bc5c-4bf2-9025-46cfa0f399f4",
+            "Value": {
+                "id": "a285529b-846b-4207-ac4b-125e27132185",
+                "resourcePath": "sounds\\snd_playerhit\\snd_playerhit.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -719,6 +767,14 @@
             }
         },
         {
+            "Key": "d4805406-a709-4514-99b5-a926171308e4",
+            "Value": {
+                "id": "25d1e9f3-cac9-4d8b-90a7-32ac1f944edb",
+                "resourcePath": "sounds\\snd_pickupsword\\snd_pickupsword.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "dd3be530-13d1-4652-aecd-18ef26f9ed52",
             "Value": {
                 "id": "20835757-3def-4ac4-894a-042d5abc855f",
@@ -732,6 +788,14 @@
                 "id": "22521f87-2d89-4c5b-9119-ceeaa7c78646",
                 "resourcePath": "sprites\\spr_playerS\\spr_playerS.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ed03407e-f897-4643-aec8-29dd055eaf0e",
+            "Value": {
+                "id": "3319c2fa-f42a-4ee3-b200-b6429eaf2900",
+                "resourcePath": "sounds\\snd_enemyattack\\snd_enemyattack.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -756,6 +820,22 @@
                 "id": "b3c807d6-4423-42ae-853c-a9615104fd4e",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f50b1b5e-d1c4-4f33-b36e-3c7bbbbfcf31",
+            "Value": {
+                "id": "0b81563c-b3e3-48de-a08d-56f9d9f18bc5",
+                "resourcePath": "sounds\\snd_enemyalert\\snd_enemyalert.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f62a2f43-925a-4b5c-9814-1c751f7c9918",
+            "Value": {
+                "id": "3df67074-ae09-40ed-a969-2254170dea4d",
+                "resourcePath": "sounds\\snd_enemyhit\\snd_enemyhit.yy",
+                "resourceType": "GMSound"
             }
         },
         {
