@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "160a5e29-75f1-4538-86b9-2a5d3c37498c",
+            "Value": {
+                "id": "03e8415d-9424-466d-87f1-bc842e45b5de",
+                "resourcePath": "sprites\\spr_armorAttackW\\spr_armorAttackW.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "168eb94b-f3f1-4741-a17e-a44475f28af7",
             "Value": {
                 "id": "39b99007-34cb-4223-9648-885db8874e56",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "79aec23b-d2a4-4308-9839-98f8f6ef3b0f",
+            "Value": {
+                "id": "c8dab493-712b-431b-9ec2-17b80fc95332",
+                "resourcePath": "sprites\\spr_armorAttackN\\spr_armorAttackN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7aa87ebc-8dc1-4517-93b9-84f82de59193",
             "Value": {
                 "id": "467bb740-a844-4a98-a74b-2adcad66efaf",
@@ -531,6 +547,14 @@
             "Value": {
                 "id": "518f7c54-0b26-4ef4-934b-e42deb622cd3",
                 "resourcePath": "objects\\obj_stamina\\obj_stamina.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7dbf6ae6-b725-4bef-8faa-a5c6a1a4ef89",
+            "Value": {
+                "id": "4869a5a5-6a1c-4a44-ab5f-e2baecfff071",
+                "resourcePath": "objects\\obj_clue2\\obj_clue2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -564,6 +588,14 @@
                 "id": "fa0c6562-106b-4da7-8a82-f3f020964647",
                 "resourcePath": "sprites\\spr_swordSwing\\spr_swordSwing.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87572de9-67de-45ef-b377-22a882c9ad4a",
+            "Value": {
+                "id": "9aff01e7-ca42-47fe-960c-c4dab26e62d2",
+                "resourcePath": "objects\\obj_clue1\\obj_clue1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -655,6 +687,14 @@
             }
         },
         {
+            "Key": "a5c89795-f296-4cd6-bdc2-8be9763e89f8",
+            "Value": {
+                "id": "fbd3efe5-0d10-4d10-bf50-b39fbd29f26d",
+                "resourcePath": "sprites\\spr_armorAttackE\\spr_armorAttackE.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a68d6dd7-f898-46e9-9f93-628050273e18",
             "Value": {
                 "id": "5ff6bd3c-58ff-4c45-bafc-5c59ef8bb814",
@@ -731,6 +771,14 @@
             "Value": {
                 "id": "d0d89920-679c-44f7-b049-52b361ee57ff",
                 "resourcePath": "sprites\\spr_underworldTile\\spr_underworldTile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "be1a4548-cb93-40b7-8561-0b0b5e5fee48",
+            "Value": {
+                "id": "933ecc38-59c4-47fd-beda-18e056b24617",
+                "resourcePath": "sprites\\spr_clue2\\spr_clue2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -823,6 +871,14 @@
             }
         },
         {
+            "Key": "d1d45e39-7c10-449f-b88b-765e6b39ac34",
+            "Value": {
+                "id": "7bb30724-e1d7-47d6-b68b-5e69cfcb6ede",
+                "resourcePath": "sprites\\spr_clue1\\spr_clue1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d2c7f512-05c5-4251-ac11-b3bc0fbc699b",
             "Value": {
                 "id": "0b8c3f50-4f1b-40b9-87e7-93778fe33a87",
@@ -867,6 +923,14 @@
             "Value": {
                 "id": "22521f87-2d89-4c5b-9119-ceeaa7c78646",
                 "resourcePath": "sprites\\spr_playerS\\spr_playerS.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e5f38ab5-92e2-4195-b09d-50f2d9c6536f",
+            "Value": {
+                "id": "98b7d530-f6eb-49cd-a013-a9caf152a005",
+                "resourcePath": "sprites\\spr_armorAttackS\\spr_armorAttackS.yy",
                 "resourceType": "GMSprite"
             }
         },
