@@ -3,8 +3,8 @@
 instance_destroy(obj_switchpressed1);
 instance_destroy(obj_switchpressed2);
 instance_destroy(obj_switchpressed3);
-instance_create_layer(832,96,"Objects",obj_switch1);
-instance_create_layer(672,96,"Objects",obj_switch2);
-instance_create_layer(608,96,"Objects",obj_switch3);
+instance_create_layer(840,645,"Objects",obj_switch1);
+instance_create_layer(800,645,"Objects",obj_switch2);
+instance_create_layer(730,645,"Objects",obj_switch3);
 global.pressed = 0;
 global.pressed1 = false;
