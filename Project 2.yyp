@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "160a5e29-75f1-4538-86b9-2a5d3c37498c",
+            "Value": {
+                "id": "03e8415d-9424-466d-87f1-bc842e45b5de",
+                "resourcePath": "sprites\\spr_armorAttackW\\spr_armorAttackW.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "168eb94b-f3f1-4741-a17e-a44475f28af7",
             "Value": {
                 "id": "39b99007-34cb-4223-9648-885db8874e56",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "79aec23b-d2a4-4308-9839-98f8f6ef3b0f",
+            "Value": {
+                "id": "c8dab493-712b-431b-9ec2-17b80fc95332",
+                "resourcePath": "sprites\\spr_armorAttackN\\spr_armorAttackN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7aa87ebc-8dc1-4517-93b9-84f82de59193",
             "Value": {
                 "id": "467bb740-a844-4a98-a74b-2adcad66efaf",
@@ -652,6 +668,14 @@
                 "id": "28ded063-74ce-49f9-ac4d-0c6e79c94dbf",
                 "resourcePath": "views\\a587c2ad-56fb-4fc9-8f3c-46b1ceda41dd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5c89795-f296-4cd6-bdc2-8be9763e89f8",
+            "Value": {
+                "id": "fbd3efe5-0d10-4d10-bf50-b39fbd29f26d",
+                "resourcePath": "sprites\\spr_armorAttackE\\spr_armorAttackE.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -867,6 +891,14 @@
             "Value": {
                 "id": "22521f87-2d89-4c5b-9119-ceeaa7c78646",
                 "resourcePath": "sprites\\spr_playerS\\spr_playerS.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e5f38ab5-92e2-4195-b09d-50f2d9c6536f",
+            "Value": {
+                "id": "98b7d530-f6eb-49cd-a013-a9caf152a005",
+                "resourcePath": "sprites\\spr_armorAttackS\\spr_armorAttackS.yy",
                 "resourceType": "GMSprite"
             }
         },
