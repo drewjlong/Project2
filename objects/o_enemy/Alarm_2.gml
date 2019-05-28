@@ -2,3 +2,4 @@
 // You can write your code in this editor
 attacking = false
 following = true
+retreating = false
