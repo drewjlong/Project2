@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if(stamina > 0 and hasSword = true and isAttacking = false){
-	alarm_set(1,60)
+	alarm_set(1,40)
 	stamina -= 1
 	attackSword = obj_playerSword
 	isAttacking = true

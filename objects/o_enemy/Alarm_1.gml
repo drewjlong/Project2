@@ -7,11 +7,11 @@ retreating = true
 if x < obj_player.x {
 	sprite_index = spr_enemyE
 	direction = 180
-	speed = 1.5
+	speed = 1
 }
 else {
 	sprite_index = spr_enemyW
 	direction = 0
-	speed = 1.5
+	speed = 1
 }
 alarm_set(2,30)

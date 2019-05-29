@@ -1,14 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
-hspeed = (keyboard_check(ord("D")) - keyboard_check(ord("A"))) * 3
-vspeed = (keyboard_check(ord("S")) - keyboard_check(ord("W"))) * 3
+hspeed = (keyboard_check(ord("D")) - keyboard_check(ord("A"))) * 2
+vspeed = (keyboard_check(ord("S")) - keyboard_check(ord("W"))) * 2
 if dash{
 	hspeed *= 2
 	vspeed *= 2
 }
 if place_meeting(x + hspeed*2, y + vspeed*2, o_enemy){
-	hspeed = 0
-	vspeed = 0
+	hspeed *= .5
+	vspeed *= .5
 }
 if keyboard_check(ord("D")) {
 		sprite_index = spr_playerE

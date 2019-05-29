@@ -4,3 +4,4 @@ if retreating == true {
 	speed = 0
 	show_debug_message("Hit solid while retreating")
 }
+else show_debug_message("Hit Solid")
