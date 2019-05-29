@@ -3,10 +3,14 @@
 hspeed = (keyboard_check(ord("D")) - keyboard_check(ord("A"))) * 2
 vspeed = (keyboard_check(ord("S")) - keyboard_check(ord("W"))) * 2
 if dash{
-	hspeed *= 2
-	vspeed *= 2
+	hspeed *= 2.5
+	vspeed *= 2.5
 }
 if place_meeting(x + hspeed*2, y + vspeed*2, o_enemy){
+	hspeed *= .5
+	vspeed *= .5
+}
+if place_meeting(x + hspeed*2, y + vspeed*2, o_rangedEnemy){
 	hspeed *= .5
 	vspeed *= .5
 }

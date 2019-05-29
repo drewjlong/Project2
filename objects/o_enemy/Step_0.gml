@@ -15,23 +15,23 @@ if attacking == false and abs(x-obj_player.x) < 15 and abs(y-obj_player.y) < 5{
 	attacking = true
 	if x < obj_player.x{
 		attackPos = 0
-		sprite_index = spr_enemyAttackE
+		sprite_index = spr_armorAttackE
 	}
 	else {
 		attackPos = 1
-		sprite_index = spr_enemyAttackW
+		sprite_index = spr_armorAttackW
 	}
 	alarm_set(0,15)
 }
 if attacking == false {
 if direction < 135 and direction > 45 {
-	sprite_index = spr_enemyN
+	sprite_index = spr_armorN
 }
 else if direction < 225 and direction > 135 {
-	sprite_index = spr_enemyW
+	sprite_index = spr_armorW
 }
 else if direction < 315 and direction > 225 {
-	sprite_index = spr_enemyS
+	sprite_index = spr_armorS
 }
-else sprite_index = spr_enemyE
+else sprite_index = spr_armorE
 }
