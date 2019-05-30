@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0575052c-a7b6-46c6-871a-77987c8926c7",
+            "Value": {
+                "id": "0e8c93d2-7895-4a3b-9c1f-f6186b27b804",
+                "resourcePath": "objects\\obj_cutscene1\\obj_cutscene1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "072e5857-5b7b-4381-ae3c-4489b3be58be",
             "Value": {
                 "id": "29d72f18-5b75-4696-8502-e07fbb0cfeeb",
@@ -583,6 +591,14 @@
             }
         },
         {
+            "Key": "8100aa1d-84e7-4b22-b316-80df760f33ee",
+            "Value": {
+                "id": "6f9f5a89-9ee4-427c-9a79-2a6dc49d37cf",
+                "resourcePath": "tilesets\\tileset3\\tileset3.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "85ded338-738e-4a74-ba59-962f01105aa2",
             "Value": {
                 "id": "47148929-efd4-4109-9c79-73a3406b3757",
@@ -639,6 +655,14 @@
             }
         },
         {
+            "Key": "9337b4c6-1a3a-43a7-b777-a8b0b275d3a8",
+            "Value": {
+                "id": "bb712087-5027-4e68-a186-efc53cb10447",
+                "resourcePath": "sprites\\spr_dragon\\spr_dragon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94a375e6-b717-4690-bb3f-5bb9658ac9bd",
             "Value": {
                 "id": "252ee71f-aa1d-4c71-9243-09e9e52016e3",
@@ -652,6 +676,14 @@
                 "id": "1d45fa10-c40c-473b-b854-471810ad46d5",
                 "resourcePath": "sprites\\spr_stamina11\\spr_stamina11.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "962d5a1a-8509-4b4a-b83d-c1361de13367",
+            "Value": {
+                "id": "34b5ef9a-d51a-4707-8ac9-434a2375945c",
+                "resourcePath": "objects\\obj_cutscene_parent\\obj_cutscene_parent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -676,6 +708,14 @@
                 "id": "937fd403-7b49-42e4-aa06-ff09d395623c",
                 "resourcePath": "objects\\obj_switchpressed1\\obj_switchpressed1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a1071182-7164-4830-bc91-129bca74579c",
+            "Value": {
+                "id": "c615b064-8691-4d1f-99b4-d1c27356f25e",
+                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -724,6 +764,14 @@
                 "id": "d9d81c18-dadb-4f17-9a70-27df6dbbba9a",
                 "resourcePath": "views\\ac2c24f8-46f6-48a3-a52b-ee206ec7f727.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ad36b540-3a37-44aa-b1f6-682e1bd207c3",
+            "Value": {
+                "id": "4db981ee-4ed6-4345-abf9-01c97e766bd1",
+                "resourcePath": "sprites\\spr_overworldTile2\\spr_overworldTile2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
