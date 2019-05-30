@@ -831,6 +831,22 @@
             }
         },
         {
+            "Key": "c3d42bd1-12b8-4e4f-807a-15a633380a68",
+            "Value": {
+                "id": "635d5839-0e43-4651-a3cb-f567aeee1e3e",
+                "resourcePath": "sprites\\spr_pickAxe\\spr_pickAxe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4525be2-2ebd-43ac-95be-991591e6c16a",
+            "Value": {
+                "id": "7f9cd01e-9691-4544-8a3b-4abaf9945742",
+                "resourcePath": "views\\c4525be2-2ebd-43ac-95be-991591e6c16a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c594d8fa-bc5c-4bf2-9025-46cfa0f399f4",
             "Value": {
                 "id": "538cc2d6-f082-4c66-b7c0-f37b55b285e7",
@@ -1018,7 +1034,7 @@
             "Key": "fb92104e-e3ac-4ee5-a573-789e818c3159",
             "Value": {
                 "id": "2d8a33d6-8ab3-46fe-8c22-3514ed603ed1",
-                "resourcePath": "sprites\\sprite57\\sprite57.yy",
+                "resourcePath": "sprites\\spr_caveTile\\spr_caveTile.yy",
                 "resourceType": "GMSprite"
             }
         },
