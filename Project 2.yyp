@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "5b690007-dd41-40a3-92dc-712644220ce1",
+            "Value": {
+                "id": "fcbf83a7-099b-4ba4-8a44-d9c5c343d24d",
+                "resourcePath": "sounds\\snd_stamina\\snd_stamina.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5d60c51d-e577-4cfa-a0d8-857671e8d080",
             "Value": {
                 "id": "2240044f-d24d-4155-93d8-e57aeaee152a",
@@ -807,6 +815,14 @@
             }
         },
         {
+            "Key": "b5e933b6-68d3-49ae-bc83-ec61f553d2b7",
+            "Value": {
+                "id": "a6ec0f3c-831b-479b-b639-6083305e56e2",
+                "resourcePath": "sounds\\snd_dash\\snd_dash.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b99fcdbf-a157-46f5-90a6-5efc9c260324",
             "Value": {
                 "id": "2931bd6a-b3ac-4ce4-8ca0-b46fadcfdba3",
@@ -879,11 +895,35 @@
             }
         },
         {
+            "Key": "c3d42bd1-12b8-4e4f-807a-15a633380a68",
+            "Value": {
+                "id": "635d5839-0e43-4651-a3cb-f567aeee1e3e",
+                "resourcePath": "sprites\\spr_pickAxe\\spr_pickAxe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c4525be2-2ebd-43ac-95be-991591e6c16a",
+            "Value": {
+                "id": "7f9cd01e-9691-4544-8a3b-4abaf9945742",
+                "resourcePath": "views\\c4525be2-2ebd-43ac-95be-991591e6c16a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c594d8fa-bc5c-4bf2-9025-46cfa0f399f4",
             "Value": {
                 "id": "538cc2d6-f082-4c66-b7c0-f37b55b285e7",
                 "resourcePath": "sounds\\snd_playerhit\\snd_playerhit.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c686a77c-04ae-4ac8-86db-04aae62e5823",
+            "Value": {
+                "id": "dafc4261-e33d-4471-b111-fd8902c52841",
+                "resourcePath": "objects\\obj_solidWallSpawn\\obj_solidWallSpawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -900,6 +940,14 @@
                 "id": "56b9ec8e-2430-4fe0-b465-b8bc0fdd0112",
                 "resourcePath": "sprites\\spr_playerN\\spr_playerN.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cb176274-0cd6-40b7-9a3c-6473c6958add",
+            "Value": {
+                "id": "e4058a97-9268-4abc-9ff6-27f760d4fcdc",
+                "resourcePath": "sounds\\snd_lowstamina\\snd_lowstamina.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -991,6 +1039,14 @@
             }
         },
         {
+            "Key": "e75e14fa-a0c7-4250-93a6-7904bea8abee",
+            "Value": {
+                "id": "b094433c-c776-47d7-8ac7-f72e0bd7d0a8",
+                "resourcePath": "sounds\\snd_lowhealth\\snd_lowhealth.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ec9119eb-3c8f-4991-af3e-1884a2fcc85f",
             "Value": {
                 "id": "a99277c1-8427-4fcb-987a-5f8f65169bc2",
@@ -1031,6 +1087,14 @@
             }
         },
         {
+            "Key": "f43fc3d0-0f36-4768-9784-55fe04f3277d",
+            "Value": {
+                "id": "f1c14e89-f75a-4153-910a-d24b822f8b86",
+                "resourcePath": "sprites\\spr_rock\\spr_rock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f50b1b5e-d1c4-4f33-b36e-3c7bbbbfcf31",
             "Value": {
                 "id": "8e7ecf13-f498-491c-ad62-f0fc0ef4b554",
@@ -1059,6 +1123,14 @@
             "Value": {
                 "id": "7f05e280-a500-439a-942b-3efe6fc1b1f5",
                 "resourcePath": "sprites\\spr_stamina0\\spr_stamina0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb92104e-e3ac-4ee5-a573-789e818c3159",
+            "Value": {
+                "id": "2d8a33d6-8ab3-46fe-8c22-3514ed603ed1",
+                "resourcePath": "sprites\\spr_caveTile\\spr_caveTile.yy",
                 "resourceType": "GMSprite"
             }
         },
