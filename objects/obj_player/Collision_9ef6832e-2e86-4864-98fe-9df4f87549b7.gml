@@ -7,3 +7,5 @@ if (invincible == false){
 	alarm_set(0,30)
 	playerHealth -= 1
 }
+
+	

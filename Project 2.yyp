@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "5b690007-dd41-40a3-92dc-712644220ce1",
+            "Value": {
+                "id": "fcbf83a7-099b-4ba4-8a44-d9c5c343d24d",
+                "resourcePath": "sounds\\snd_stamina\\snd_stamina.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5d60c51d-e577-4cfa-a0d8-857671e8d080",
             "Value": {
                 "id": "2240044f-d24d-4155-93d8-e57aeaee152a",
@@ -759,6 +767,14 @@
             }
         },
         {
+            "Key": "b5e933b6-68d3-49ae-bc83-ec61f553d2b7",
+            "Value": {
+                "id": "a6ec0f3c-831b-479b-b639-6083305e56e2",
+                "resourcePath": "sounds\\snd_dash\\snd_dash.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b99fcdbf-a157-46f5-90a6-5efc9c260324",
             "Value": {
                 "id": "2931bd6a-b3ac-4ce4-8ca0-b46fadcfdba3",
@@ -879,6 +895,14 @@
             }
         },
         {
+            "Key": "cb176274-0cd6-40b7-9a3c-6473c6958add",
+            "Value": {
+                "id": "e4058a97-9268-4abc-9ff6-27f760d4fcdc",
+                "resourcePath": "sounds\\snd_lowstamina\\snd_lowstamina.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cb2119e6-7b62-4a43-b813-fc706edc035a",
             "Value": {
                 "id": "2788c712-3ecd-459b-8c3a-0eacd6ec64a6",
@@ -964,6 +988,14 @@
                 "id": "98b7d530-f6eb-49cd-a013-a9caf152a005",
                 "resourcePath": "sprites\\spr_armorAttackS\\spr_armorAttackS.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e75e14fa-a0c7-4250-93a6-7904bea8abee",
+            "Value": {
+                "id": "b094433c-c776-47d7-8ac7-f72e0bd7d0a8",
+                "resourcePath": "sounds\\snd_lowhealth\\snd_lowhealth.yy",
+                "resourceType": "GMSound"
             }
         },
         {

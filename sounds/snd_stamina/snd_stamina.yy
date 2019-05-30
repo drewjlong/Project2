@@ -1,8 +1,8 @@
 {
-    "id": "f62a2f43-925a-4b5c-9814-1c751f7c9918",
+    "id": "5b690007-dd41-40a3-92dc-712644220ce1",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_enemyhit",
+    "name": "snd_stamina",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
