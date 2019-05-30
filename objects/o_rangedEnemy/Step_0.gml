@@ -5,11 +5,11 @@ if speed = 0 {
 }
 path = path_add()
 if following and mp_grid_path(global.prototypeLevel,path,x,y,obj_player.x,obj_player.y,true) {
-	path_start(path,2.5,path_action_stop,false)
+	path_start(path,1.5,path_action_stop,false)
 }
 if attacking == false and distance_to_object(obj_player) < 50 {
 	path_end()
-	speed = 2.5
+	speed = 1.5
 	direction = point_direction(x,y,obj_player.x,obj_player.y) + 180
 	if place_meeting(x + hspeed,y + vspeed,obj_solid){
 		following = false
@@ -18,7 +18,7 @@ if attacking == false and distance_to_object(obj_player) < 50 {
 		speed = 0
 	}
 }
-else if attacking == false and distance_to_object(obj_player) < 115 {
+else if attacking == false and distance_to_object(obj_player) < 75 {
 	path_end()
 	speed = 0
 	following = false
@@ -39,13 +39,13 @@ if attacking == false {
 }
 else {
 	if point_direction(x,y,obj_player.x,obj_player.y) < 135 and point_direction(x,y,obj_player.x,obj_player.y) > 45 {
-		sprite_index = spr_enemyN
+		sprite_index = spr_enemyAttackN
 	}
 	else if point_direction(x,y,obj_player.x,obj_player.y) < 225 and point_direction(x,y,obj_player.x,obj_player.y) > 135 {
-		sprite_index = spr_enemyW
+		sprite_index = spr_enemyAttackW
 	}
 	else if point_direction(x,y,obj_player.x,obj_player.y) < 315 and point_direction(x,y,obj_player.x,obj_player.y) > 225 {
-		sprite_index = spr_enemyS
+		sprite_index = spr_enemyAttackS
 	}
-	else sprite_index = spr_enemyE
+	else sprite_index = spr_enemyAttackE
 }
