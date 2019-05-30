@@ -40,6 +40,7 @@ if keyboard_check(ord("S")){
 	}
 if(playerHealth == 0){
 	audio_pause_sound(snd_basicmusic);
+	audio_pause_sound(snd_lowhealth);
 	audio_play_sound(snd_playerdead,5,0);
 	room_restart()
 }

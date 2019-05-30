@@ -4,6 +4,8 @@ x = obj_camera.x +100
 y = obj_camera.y +40
 if obj_player.playerHealth = 1{
 	sprite_index = spr_health1
+	if lowhealth = false {lowhealth = true;
+		audio_play_sound(snd_lowhealth,6,1)}
 }
 if obj_player.playerHealth = 2{
 	sprite_index = spr_health2
@@ -11,3 +13,4 @@ if obj_player.playerHealth = 2{
 if obj_player.playerHealth = 3{
 	sprite_index = spr_health3
 }
+
