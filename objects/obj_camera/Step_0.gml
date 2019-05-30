@@ -1,5 +1,5 @@
-x+=(xto-x)/8;
-y+=(yto-y)/8;
+x+=(xto-x)/4;
+y+=(yto-y)/4;
 
 if (follow!=noone)
 {
