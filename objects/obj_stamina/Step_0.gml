@@ -21,4 +21,6 @@ if obj_player.stamina = 3{
 }
 if obj_player.stamina = 0{
 	sprite_index = spr_stamina0
+	if global.lowstam = false {global.lowstam = true;
+		audio_play_sound(snd_lowstamina,6,0)}
 }
