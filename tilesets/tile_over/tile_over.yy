@@ -103,7 +103,7 @@
             "name": "animation_2"
         }
     ],
-    "tile_animation_speed": 2,
+    "tile_animation_speed": 4,
     "tile_count": 18,
     "tileheight": 16,
     "tilehsep": 0,

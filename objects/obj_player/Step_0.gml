@@ -39,6 +39,8 @@ if keyboard_check(ord("S")){
 		swordDirection = 270
 	}
 if(playerHealth == 0){
+	audio_pause_sound(snd_basicmusic);
+	audio_play_sound(snd_playerdead,5,0);
 	room_restart()
 }
 
