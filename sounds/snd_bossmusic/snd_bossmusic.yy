@@ -1,8 +1,8 @@
 {
-    "id": "cb176274-0cd6-40b7-9a3c-6473c6958add",
+    "id": "4c5a7576-e7dc-4a23-84f7-2433aac4c6dc",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_lowstamina",
+    "name": "snd_bossmusic",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.33
+    "volume": 0.54
 }

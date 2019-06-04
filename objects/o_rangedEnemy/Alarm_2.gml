@@ -3,3 +3,4 @@
 show_debug_message("Done attacking")
 attacking = false
 following = true
+audio_play_sound(snd_enemypause,7,0);

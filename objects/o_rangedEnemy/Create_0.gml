@@ -8,3 +8,4 @@ enemyHealth = 3
 vulnerable = true
 enemyWeapon = noone
 retreating = false
+audio_play_sound(snd_enemyalert;8;0);

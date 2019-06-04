@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "4c5a7576-e7dc-4a23-84f7-2433aac4c6dc",
+            "Value": {
+                "id": "82f3d3c9-268f-4fc3-a7bc-d28143e3d56a",
+                "resourcePath": "sounds\\snd_bossmusic\\snd_bossmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4c7a1299-76bd-4fdb-b926-e41f94830b88",
             "Value": {
                 "id": "b1145d56-9aa5-4c92-9293-80cab007e331",
@@ -668,6 +676,14 @@
                 "id": "c9a6f578-8254-4eb3-a376-52f3e21c286c",
                 "resourcePath": "views\\878e8fac-f58d-427f-a0f2-d7abb8f4f76f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87ee6c1c-9bee-475b-93b5-b447358c1e63",
+            "Value": {
+                "id": "35c86ecc-d69f-4b2b-9d07-a9ccecd9a80f",
+                "resourcePath": "objects\\obj_bossmusic\\obj_bossmusic.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1076,6 +1092,14 @@
                 "id": "98b7d530-f6eb-49cd-a013-a9caf152a005",
                 "resourcePath": "sprites\\spr_armorAttackS\\spr_armorAttackS.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e609c623-fceb-43c3-9942-3fb13daa652b",
+            "Value": {
+                "id": "afa30d86-4296-4a71-9eaf-78f4544f22bf",
+                "resourcePath": "objects\\obj_overworldmusic\\obj_overworldmusic.yy",
+                "resourceType": "GMObject"
             }
         },
         {

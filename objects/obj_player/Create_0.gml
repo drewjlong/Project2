@@ -16,4 +16,4 @@ canMove = true
 swordDirection = 0
 stamina = 3
 dash = false
-audio_play_sound(snd_basicmusic,1,1);
+
