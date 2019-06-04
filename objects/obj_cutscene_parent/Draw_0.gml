@@ -2,11 +2,11 @@
 
 draw_self();
 var _margin = 10;
-var _text_x = x + 450;
-var _text_y = y + 350;
+var _text_x = x + 140;
+var _text_y = y + 50;
 var _sep = 35;
 var _text_width = 500;
 var _substring = string_copy(msg,0,char_index);
 draw_set_font(cutscene_font);
-draw_set_halign(fa_center);
+draw_set_halign(fa_left);
 draw_text_ext(_text_x, _text_y, _substring, _sep, _text_width);

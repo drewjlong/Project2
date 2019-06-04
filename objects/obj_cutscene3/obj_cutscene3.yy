@@ -1,38 +1,38 @@
 {
-    "id": "0575052c-a7b6-46c6-871a-77987c8926c7",
+    "id": "1b533ec8-b7bb-48f8-977d-a4f125776e8a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cutscene1",
+    "name": "obj_cutscene3",
     "eventList": [
         {
-            "id": "06fb2dd9-b764-4db0-891e-45dbc2563485",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "0575052c-a7b6-46c6-871a-77987c8926c7"
-        },
-        {
-            "id": "fbfbd7d5-5d82-4851-aa8f-eeaf0dd834be",
+            "id": "6bc46059-db1d-4888-a7f8-338cd505a8a8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 2,
-            "m_owner": "0575052c-a7b6-46c6-871a-77987c8926c7"
+            "m_owner": "1b533ec8-b7bb-48f8-977d-a4f125776e8a"
         },
         {
-            "id": "951f6e4a-d5d9-4c26-8abc-3be7070cbb44",
+            "id": "2f19e1b6-bbc6-4d53-9ea1-674c22f45886",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "1b533ec8-b7bb-48f8-977d-a4f125776e8a"
+        },
+        {
+            "id": "eeb6ee27-18bd-4fbc-a3a6-b9e07d2afe4b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0575052c-a7b6-46c6-871a-77987c8926c7"
+            "m_owner": "1b533ec8-b7bb-48f8-977d-a4f125776e8a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "de4a9f38-88a5-4e26-8bdf-df050c017d08",
+            "id": "9b429e43-6953-4435-9747-8939e08caff0",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
