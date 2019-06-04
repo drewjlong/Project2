@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02de6ff9-4192-4a06-8989-7d1746999114",
+            "Value": {
+                "id": "f0805414-5fe5-4c64-8236-50f37680da76",
+                "resourcePath": "sounds\\snd_bossfire\\snd_bossfire.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "03cc1749-ed7d-4db8-9d7e-9ee676cfc289",
             "Value": {
                 "id": "25d8eae5-51a1-4080-80bf-14e6a7eacd8c",
@@ -68,6 +76,14 @@
                 "id": "a34759a7-0728-4a36-88e8-f9820363e729",
                 "resourcePath": "sprites\\spr_stamina1\\spr_stamina1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "09ba6acc-a28c-4f24-8013-af7ada1307d4",
+            "Value": {
+                "id": "20675290-5b4f-4f0e-9ae8-a6d15ced1e8a",
+                "resourcePath": "sounds\\snd_bossinhale\\snd_bossinhale.yy",
+                "resourceType": "GMSound"
             }
         },
         {
