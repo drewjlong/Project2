@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "6e775717-ddd5-41bb-9e35-4894a1bfe9eb",
+            "Value": {
+                "id": "83ec457c-5518-43f9-afa1-f3d5860fd535",
+                "resourcePath": "objects\\obj_cutscene4\\obj_cutscene4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fb7a269-4830-4a54-9c61-31cd9bfe15b7",
             "Value": {
                 "id": "d93448a5-e4c7-4b07-af17-49e7a15acd7e",
