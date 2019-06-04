@@ -6,6 +6,8 @@ if (invincible == false) and obj_bossFire.active{
 	invincible = true
 	alarm_set(0,30)
 	playerHealth -= 1
+	audio_play_sound(snd_playerhit,7,0);
+	audio_play_sound(snd_burn,6,0);
 }
 
 	

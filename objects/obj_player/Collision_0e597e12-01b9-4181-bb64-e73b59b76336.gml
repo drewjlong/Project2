@@ -6,4 +6,5 @@ if (invincible == false){
 	invincible = true
 	alarm_set(0,30)
 	playerHealth -= 1
+	audio_play_sound(snd_playerhit,7,0);
 }
