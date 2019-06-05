@@ -4,7 +4,7 @@ path = path_add()
 if following and mp_grid_path(global.prototypeLevel,path,x,y,obj_player.x,obj_player.y,true) {
 	path_start(path,1.5,path_action_stop,false)
 	show_debug_message("following")
-	if obj_player.isAttacking and distance_to_object(obj_player) < 50 {
+	if obj_player.isAttacking and distance_to_object(obj_player) < 50 and distance_to_object(obj_player) > 15{
 		path_speed = 0
 	}
 }
