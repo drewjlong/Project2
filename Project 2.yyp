@@ -1087,6 +1087,14 @@
             }
         },
         {
+            "Key": "b1b6bc02-01d2-4533-8ac1-ccea6cd1e360",
+            "Value": {
+                "id": "20cfa866-39c5-4c9c-89ba-7eb8efb6a3eb",
+                "resourcePath": "sprites\\spr_bossTile\\spr_bossTile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b319d93c-5d7e-40ee-b027-d9ea9f080f6f",
             "Value": {
                 "id": "8745def2-6a6c-4193-8e47-c63cc6a67f37",
@@ -1308,6 +1316,14 @@
                 "id": "8db71f5a-a605-4dc7-9971-969a11ff8cf3",
                 "resourcePath": "sounds\\snd_pickupsword\\snd_pickupsword.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d60defac-6832-449f-bc18-b93d787d1752",
+            "Value": {
+                "id": "ef465d02-87b8-41ed-9b68-abc545478166",
+                "resourcePath": "tilesets\\tileset6\\tileset6.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
