@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "21e561b6-be65-4eb8-9684-6ea176fca0c1",
+            "Value": {
+                "id": "41ce05a4-2251-422a-933f-1e7dea148fc6",
+                "resourcePath": "sounds\\snd_intro\\snd_intro.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2221e8af-7f18-445b-aa99-de3b821d3de1",
             "Value": {
                 "id": "c6aba526-5b38-40e0-8bab-b0b2cc55fd73",
