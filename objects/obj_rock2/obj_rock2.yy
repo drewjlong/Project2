@@ -1,5 +1,5 @@
 {
-    "id": "1ee9bdd8-6324-4f5a-bf1f-90c457b93beb",
+    "id": "41a46ab0-2771-4918-9e9f-dfc220c97072",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_rock2",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0a8b764d-005a-49d8-843e-3a318ce164d8",
+    "spriteId": "55342b9d-10e2-4645-85e0-e63b0bdb1203",
     "visible": true
 }
