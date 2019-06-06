@@ -3,7 +3,7 @@
 randomize()
 playerHealth = 3
 hasSword = false;
-if room == room2{
+if room == room2 or room == r_underworld{
 	hasSword = true
 }
 global.pressed = 0
