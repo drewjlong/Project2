@@ -1,38 +1,38 @@
 {
-    "id": "6e775717-ddd5-41bb-9e35-4894a1bfe9eb",
+    "id": "f2895eb1-96df-4a94-b7e9-024d4d933628",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cutscene4",
+    "name": "obj_cutscene7",
     "eventList": [
         {
-            "id": "85664a9b-6115-43fc-aaac-7ef12ec449d0",
+            "id": "9e19ee75-876c-4890-868f-d9868797aaca",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 2,
-            "m_owner": "6e775717-ddd5-41bb-9e35-4894a1bfe9eb"
+            "m_owner": "f2895eb1-96df-4a94-b7e9-024d4d933628"
         },
         {
-            "id": "dc2a02c0-d8c4-40fd-9f0d-a03512351efc",
+            "id": "f809d7ef-2fa2-4f22-827e-d216d8622b0c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "6e775717-ddd5-41bb-9e35-4894a1bfe9eb"
+            "m_owner": "f2895eb1-96df-4a94-b7e9-024d4d933628"
         },
         {
-            "id": "4d7a721c-efd7-46e9-b60f-d485f950c489",
+            "id": "74c261e7-55c8-4df9-a145-7cedbae794bb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "6e775717-ddd5-41bb-9e35-4894a1bfe9eb"
+            "m_owner": "f2895eb1-96df-4a94-b7e9-024d4d933628"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "5f0e0346-74e0-4b58-81dd-6f35c133d3dd",
+            "id": "c7e18cf5-2b12-452d-8881-85a37e7a1845",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,

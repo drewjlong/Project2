@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "03b9ac34-355d-440d-9cf8-a39e9269d246",
+            "Value": {
+                "id": "b8afd7cf-dc73-4f15-898c-0f102f9cea27",
+                "resourcePath": "views\\03b9ac34-355d-440d-9cf8-a39e9269d246.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "03cc1749-ed7d-4db8-9d7e-9ee676cfc289",
             "Value": {
                 "id": "25d8eae5-51a1-4080-80bf-14e6a7eacd8c",
@@ -227,6 +235,14 @@
             "Value": {
                 "id": "04f0d843-3675-450c-a6ac-94f85b5a051c",
                 "resourcePath": "objects\\obj_switch2\\obj_switch2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2221e8af-7f18-445b-aa99-de3b821d3de1",
+            "Value": {
+                "id": "c6aba526-5b38-40e0-8bab-b0b2cc55fd73",
+                "resourcePath": "objects\\obj_Gil_confused\\obj_Gil_confused.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -751,6 +767,14 @@
             }
         },
         {
+            "Key": "7f2b2a42-3816-4f6f-9de9-41cf97f4e804",
+            "Value": {
+                "id": "b8ad78b0-37eb-4897-b670-6a4b273a2d6b",
+                "resourcePath": "objects\\obj_cutscene5\\obj_cutscene5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7fdec0da-f0a3-45f1-8496-725e1ed5ac44",
             "Value": {
                 "id": "2e8da78f-e9d0-49c1-8deb-86f64f3cd7de",
@@ -932,6 +956,14 @@
                 "id": "c615b064-8691-4d1f-99b4-d1c27356f25e",
                 "resourcePath": "tilesets\\tileset2\\tileset2.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "a1753883-83a7-4d82-b9d4-eaa2eb383148",
+            "Value": {
+                "id": "37e2656d-8eba-41f5-8cf8-0eb0ad5dbc6c",
+                "resourcePath": "objects\\obj_village_leader_angry\\obj_village_leader_angry.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1359,10 +1391,26 @@
             }
         },
         {
+            "Key": "f179eb50-4432-4a79-9898-ca990157149f",
+            "Value": {
+                "id": "7bef0db9-e5db-4c24-a5e9-e66fde21f969",
+                "resourcePath": "objects\\obj_cutscene6\\obj_cutscene6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f281ea80-dd13-479e-b5c2-9d420a228643",
             "Value": {
                 "id": "9096aa9b-4555-43b2-a7f7-a97dd75e2d65",
                 "resourcePath": "objects\\obj_village_leader_cutscene\\obj_village_leader_cutscene.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2895eb1-96df-4a94-b7e9-024d4d933628",
+            "Value": {
+                "id": "e600b6e8-19c8-4dc8-8374-f2f95d575921",
+                "resourcePath": "objects\\obj_cutscene7\\obj_cutscene7.yy",
                 "resourceType": "GMObject"
             }
         },
