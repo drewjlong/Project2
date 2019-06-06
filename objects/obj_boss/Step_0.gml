@@ -1,7 +1,6 @@
 /// @description
 if canAttack {
 	canAttack = false
-	attackRoll = 2
 	if attackRoll == 0 or attackRoll == 1 {
 		alarm_set(0,50)
 	}
