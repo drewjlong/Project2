@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "302f90cc-bfe1-4db1-b0b9-57c3a5c703f6",
+            "Value": {
+                "id": "5d178b75-7157-4fde-84cb-4477e021b179",
+                "resourcePath": "objects\\obj_bluemural\\obj_bluemural.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3051af74-5162-492e-841c-7ff7a88fd416",
             "Value": {
                 "id": "04282db8-0bc2-4144-a09b-c86a90257d05",
@@ -468,6 +476,14 @@
                 "id": "79864394-8d06-4d00-9b0f-03abe60d6c29",
                 "resourcePath": "views\\44b5f141-08bf-4110-8a9e-305f05140d52.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "465cfbfa-9336-4ee5-b1a1-f7206d058f93",
+            "Value": {
+                "id": "a1721fd7-7e6c-4f86-8cbd-1b17c75fc8e1",
+                "resourcePath": "tilesets\\tileset7\\tileset7.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -628,6 +644,14 @@
                 "id": "2391d174-8953-44d1-98aa-5d2e73631e6d",
                 "resourcePath": "sprites\\spr_empty\\spr_empty.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "619f0a54-7ba8-4c59-8bdf-5e9e2bf28760",
+            "Value": {
+                "id": "07080b9a-279a-48ad-aba6-c949148b9d90",
+                "resourcePath": "rooms\\transition_cutscene\\transition_cutscene.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -975,6 +999,14 @@
             }
         },
         {
+            "Key": "9d2d3ab0-75c5-4460-8944-065b619c4be2",
+            "Value": {
+                "id": "a80b338f-8cc1-4c5e-9bd2-503c40bde3d2",
+                "resourcePath": "rooms\\ending_cutscene\\ending_cutscene.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9fe04995-b711-4c0d-8197-8cff44641925",
             "Value": {
                 "id": "8cec74e1-9442-4ef8-8523-ced86337e749",
@@ -1156,6 +1188,14 @@
                 "id": "a6ec0f3c-831b-479b-b639-6083305e56e2",
                 "resourcePath": "sounds\\snd_dash\\snd_dash.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b76a3496-eaae-4431-a745-869637070565",
+            "Value": {
+                "id": "70eee165-9910-4693-b972-7c3416a10bd0",
+                "resourcePath": "sprites\\spr_Anah2\\spr_Anah2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1391,6 +1431,14 @@
             }
         },
         {
+            "Key": "e1d8bf06-bc53-4c0c-875f-919b945815d8",
+            "Value": {
+                "id": "20377266-ed93-4936-985e-a5824208f94c",
+                "resourcePath": "sprites\\spr_Anah\\spr_Anah.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e1e7170d-2805-4994-8f8a-238db3cb653a",
             "Value": {
                 "id": "22521f87-2d89-4c5b-9119-ceeaa7c78646",
@@ -1479,6 +1527,14 @@
             }
         },
         {
+            "Key": "f22fedec-35ad-4dd6-9025-c4148d0bed27",
+            "Value": {
+                "id": "097e912b-bd94-4506-ba55-776a7b4a6c1e",
+                "resourcePath": "sprites\\spr_citycutscene\\spr_citycutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f281ea80-dd13-479e-b5c2-9d420a228643",
             "Value": {
                 "id": "9096aa9b-4555-43b2-a7f7-a97dd75e2d65",
@@ -1564,6 +1620,14 @@
                 "id": "b63cabc0-dd4e-4325-b256-8fb93d07eaf0",
                 "resourcePath": "sprites\\spr_enemyAttack\\spr_enemyAttack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd995d05-28a8-460d-b0c1-7c8b27fc74f4",
+            "Value": {
+                "id": "570a543c-1089-4ad1-9077-b38f676ad81e",
+                "resourcePath": "objects\\obj_redmural\\obj_redmural.yy",
+                "resourceType": "GMObject"
             }
         },
         {
