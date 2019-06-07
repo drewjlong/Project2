@@ -24,30 +24,57 @@
         "AnimationCreationOrder": null,
         "FrameData": [
             0,
+            0,
+            1,
             1,
             2,
+            2,
+            3,
             3,
             4,
+            4,
+            5,
             5,
             6,
+            6,
+            7,
             7,
             8,
+            11,
+            9,
             9,
             10,
+            10,
             11,
+            8,
+            12,
             12,
             13,
+            13,
+            14,
             14,
             15,
+            15,
             16,
+            16,
+            17,
             17
         ],
-        "SerialiseFrameCount": 1
+        "SerialiseFrameCount": 2
     },
     "tile_animation_frames": [
-        
+        {
+            "id": "f78449a5-56d5-49ca-ad8e-1ea5add3cf64",
+            "modelName": "GMTileAnimation",
+            "mvc": "1.0",
+            "frames": [
+                11,
+                8
+            ],
+            "name": "animation_1"
+        }
     ],
-    "tile_animation_speed": 15,
+    "tile_animation_speed": 4,
     "tile_count": 18,
     "tileheight": 16,
     "tilehsep": 0,

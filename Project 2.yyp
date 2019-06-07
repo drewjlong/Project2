@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "259dfa9b-b87b-46f3-bdb7-359a4df8d519",
+            "Value": {
+                "id": "d10b50f3-dd5e-4a54-b31d-30e626def2a7",
+                "resourcePath": "sprites\\spr_brickWallTile\\spr_brickWallTile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "26e0e4b4-2b26-488b-be84-f1d727942f05",
             "Value": {
                 "id": "da997966-c338-4751-b115-c395ea865e40",
@@ -1215,6 +1223,14 @@
             }
         },
         {
+            "Key": "c2283838-5ec1-46d3-8db9-c75f4aba3bdb",
+            "Value": {
+                "id": "c0a34bfa-df3c-4803-b8f7-b38d1dc36b7b",
+                "resourcePath": "tilesets\\tileset7\\tileset7.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "c2299f7d-6b28-43f1-a4a3-a10cfe5fadf5",
             "Value": {
                 "id": "4f60497b-c2b5-4445-9d0b-2600134a3f07",
@@ -1380,6 +1396,14 @@
                 "id": "22521f87-2d89-4c5b-9119-ceeaa7c78646",
                 "resourcePath": "sprites\\spr_playerS\\spr_playerS.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1f50abb-b5a1-4563-85d7-770448d5ee5a",
+            "Value": {
+                "id": "8b6be1e6-1a0d-4338-8292-b433db753265",
+                "resourcePath": "views\\b319d93c-5d7e-40ee-b027-d9ea9f080f6f-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
