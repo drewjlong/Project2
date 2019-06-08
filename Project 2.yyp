@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "08626352-d33a-4602-9937-e0c84987dedf",
+            "Value": {
+                "id": "7a490e22-05ff-4387-bd14-bf1a5b79edec",
+                "resourcePath": "tilesets\\citytileset\\citytileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "08861999-ee77-455d-9cfc-63f84a8773f7",
             "Value": {
                 "id": "a34759a7-0728-4a36-88e8-f9820363e729",
