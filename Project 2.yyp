@@ -1207,6 +1207,14 @@
             }
         },
         {
+            "Key": "c3d976fd-e7fb-4b2f-b542-86cae2f94f11",
+            "Value": {
+                "id": "367cea47-616e-4479-ad32-77be6778f643",
+                "resourcePath": "sounds\\snd_texthigh\\snd_texthigh.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c594d8fa-bc5c-4bf2-9025-46cfa0f399f4",
             "Value": {
                 "id": "538cc2d6-f082-4c66-b7c0-f37b55b285e7",
