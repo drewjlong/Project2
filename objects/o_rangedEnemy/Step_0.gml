@@ -7,7 +7,7 @@ path = path_add()
 if following and mp_grid_path(global.prototypeLevel,path,x,y,obj_player.x,obj_player.y,true) {
 	path_start(path,1.5,path_action_stop,false)
 }
-if attacking == false and distance_to_object(obj_player) < 30 {
+if attacking == false and distance_to_object(obj_player) < 40 {
 	path_end()
 	speed = 1.5
 	direction = point_direction(x,y,obj_player.x,obj_player.y) + 180
@@ -19,7 +19,7 @@ if attacking == false and distance_to_object(obj_player) < 30 {
 		speed = 0
 	}
 }
-else if attacking == false and distance_to_object(obj_player) < 50 {
+else if attacking == false and distance_to_object(obj_player) < 55 {
 	path_end()
 	speed = 0
 	following = false
