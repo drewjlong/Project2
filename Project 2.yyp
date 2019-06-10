@@ -999,6 +999,14 @@
             }
         },
         {
+            "Key": "8c0c474c-63bf-4bcf-9775-fbbc9ec89d66",
+            "Value": {
+                "id": "5b371e31-068a-41d0-8587-d78efd4503aa",
+                "resourcePath": "sprites\\spr_lightBeam\\spr_lightBeam.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d8b2b26-c3d4-49f5-ba75-29b5f7fa3faf",
             "Value": {
                 "id": "fa349a8b-3725-49af-9e1c-1859b699ea26",
