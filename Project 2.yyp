@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "560ce802-20bd-4a0a-9778-54010689bd06",
+            "Value": {
+                "id": "4a3bc981-02fd-4ec6-8f36-b183db8622fd",
+                "resourcePath": "sprites\\spr_relic2\\spr_relic2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5980104f-a615-4918-8db0-f196789ccf81",
             "Value": {
                 "id": "b4ac9449-d7e4-40cb-9cd2-27f59184f927",
@@ -860,6 +868,14 @@
                 "id": "52f81d4a-ebd5-4af9-a021-d4306708479c",
                 "resourcePath": "objects\\o_enemySpawnerPrototype2\\o_enemySpawnerPrototype2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7d828208-1e44-41d2-a427-826fac1ad618",
+            "Value": {
+                "id": "21c003d7-36ca-4eec-8663-03bd528102fc",
+                "resourcePath": "views\\7d828208-1e44-41d2-a427-826fac1ad618.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1108,6 +1124,14 @@
                 "id": "37e2656d-8eba-41f5-8cf8-0eb0ad5dbc6c",
                 "resourcePath": "objects\\obj_village_leader_angry\\obj_village_leader_angry.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2fe2c2f-14ac-4021-8fed-782334239411",
+            "Value": {
+                "id": "b4b64b46-2e8b-4795-8568-33481279d0d4",
+                "resourcePath": "sprites\\spr_relic1\\spr_relic1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
