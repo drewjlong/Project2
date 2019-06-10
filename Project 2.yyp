@@ -551,6 +551,14 @@
             }
         },
         {
+            "Key": "4d8d2780-ab5d-4b09-985e-3e674ea72497",
+            "Value": {
+                "id": "9e3b89ff-3351-4b27-a7c4-5886cb41de16",
+                "resourcePath": "sprites\\spr_bossTemplate\\spr_bossTemplate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e47ef71-743f-4329-a586-5bf3c83bc186",
             "Value": {
                 "id": "5d739a0a-102f-447e-aa3e-ffe61cc337ab",
@@ -775,6 +783,14 @@
             }
         },
         {
+            "Key": "7480fea7-1f01-4aa5-a664-51a73ac7cbac",
+            "Value": {
+                "id": "88f8dd2c-73a1-45e3-ba9d-41ee48d72ca3",
+                "resourcePath": "views\\7480fea7-1f01-4aa5-a664-51a73ac7cbac.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "77f31444-efc7-4dba-bcec-d97fda4e2b84",
             "Value": {
                 "id": "0b15b8cb-f62f-4c70-8c1a-c0e00e9195a5",
@@ -924,6 +940,14 @@
                 "id": "de906f77-1d60-43ff-bcd5-06c26cce42a9",
                 "resourcePath": "views\\88b53aac-bd15-4224-9240-22f1b7ab5e95.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "899db8b3-c50a-440a-8e9a-e003b527b328",
+            "Value": {
+                "id": "e3e7a6ce-bc81-49ba-a16b-08a03287784f",
+                "resourcePath": "sprites\\spr_bossNeutral\\spr_bossNeutral.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1359,6 +1383,14 @@
             }
         },
         {
+            "Key": "cba4e956-7ef2-4f23-bc31-aac28382eb64",
+            "Value": {
+                "id": "2abbeee4-3242-4a68-b57c-fc432078f754",
+                "resourcePath": "sprites\\spr_bossFireAttack\\spr_bossFireAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "69d766ac-831c-48be-aaa3-9b146a948b46",
@@ -1379,6 +1411,14 @@
             "Value": {
                 "id": "400ca5ee-8885-4805-9018-e694ed3f9a07",
                 "resourcePath": "sprites\\spr_redfirst\\spr_redfirst.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1a3d4dc-03cb-42ec-a586-47bc5175c47f",
+            "Value": {
+                "id": "4bda32be-250f-468c-997d-bbdda4f45c11",
+                "resourcePath": "sprites\\spr_bossTailAttack\\spr_bossTailAttack.yy",
                 "resourceType": "GMSprite"
             }
         },
