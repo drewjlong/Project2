@@ -1095,6 +1095,14 @@
             }
         },
         {
+            "Key": "87fd0e56-f998-4414-8a68-aff4c4cc95aa",
+            "Value": {
+                "id": "5f8767b9-f8ca-4ffe-bd5a-6c43eb626c84",
+                "resourcePath": "sounds\\snd_endmusic\\snd_endmusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "889f3e08-2985-497b-919e-28731699c772",
             "Value": {
                 "id": "ea03a527-e49f-4a43-98d3-ada4416adb8e",
