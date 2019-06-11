@@ -8,6 +8,7 @@ if(vulnerable == true){
 		hp -= 1;
 	} else if(hp == 1){
 		audio_play_sound(snd_crack,5,0);
+		audio_play_sound(snd_disappointment,8,0);
 		instance_destroy();
 	}
 }

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_relic1",
     "eventList": [
-        
+        {
+            "id": "36f749ba-d1e3-4d50-aced-7a8471467ae8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "f38206ef-fc66-4a14-8004-0278a1224e68",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "9bb05aaf-8dcf-4741-897f-55b892f25dcc"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

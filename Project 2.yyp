@@ -1567,6 +1567,14 @@
             }
         },
         {
+            "Key": "c33993cc-28e6-492e-a20d-ed2b28a8bd45",
+            "Value": {
+                "id": "1fe80191-3333-4bdd-8ac7-0d34cc130810",
+                "resourcePath": "sounds\\snd_relicpickup\\snd_relicpickup.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c3d42bd1-12b8-4e4f-807a-15a633380a68",
             "Value": {
                 "id": "635d5839-0e43-4651-a3cb-f567aeee1e3e",
@@ -1652,6 +1660,14 @@
                 "id": "2abbeee4-3242-4a68-b57c-fc432078f754",
                 "resourcePath": "sprites\\spr_bossFireAttack\\spr_bossFireAttack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc18070e-e850-4ea6-9554-6f633a2dce0e",
+            "Value": {
+                "id": "d7efaf4b-41dc-4545-ad2e-5ce8b7ac4b2d",
+                "resourcePath": "sounds\\snd_disappointment\\snd_disappointment.yy",
+                "resourceType": "GMSound"
             }
         },
         {

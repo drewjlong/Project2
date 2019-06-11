@@ -1,8 +1,8 @@
 {
-    "id": "d4805406-a709-4514-99b5-a926171308e4",
+    "id": "cc18070e-e850-4ea6-9554-6f633a2dce0e",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_pickupsword",
+    "name": "snd_disappointment",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.1
+    "volume": 1
 }
