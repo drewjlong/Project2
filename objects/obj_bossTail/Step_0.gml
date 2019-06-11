@@ -9,5 +9,6 @@ if comeBackBaby {
 	image_yscale -= .05
 }
 if image_xscale <= 0 {
+	obj_boss.image_speed = -1
 	instance_destroy()
 }
