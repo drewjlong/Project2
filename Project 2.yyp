@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01558e9a-40e8-4c2e-b3e8-f199480bcee3",
+            "Value": {
+                "id": "1c14408f-45a0-44ff-821d-e1520b004751",
+                "resourcePath": "sounds\\snd_treespawn\\snd_treespawn.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "02de6ff9-4192-4a06-8989-7d1746999114",
             "Value": {
                 "id": "f0805414-5fe5-4c64-8236-50f37680da76",
@@ -999,6 +1007,14 @@
             }
         },
         {
+            "Key": "8086b620-1009-4ac0-9d3b-4f95829b8a71",
+            "Value": {
+                "id": "7649e96e-a94a-45bb-b68c-a62f8035456b",
+                "resourcePath": "objects\\obj_underworldmusic\\obj_underworldmusic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "80e2094a-2be7-4784-92af-d240c62dd90f",
             "Value": {
                 "id": "25a3f9f0-416a-4150-ba4e-ef6b012e8c53",
@@ -1091,6 +1107,14 @@
             "Value": {
                 "id": "a2e758ed-68f7-434c-98d0-6c2603289dff",
                 "resourcePath": "sounds\\snd_flameburst\\snd_flameburst.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "8a9eb803-7685-40f2-bcb2-65a91b23d6b2",
+            "Value": {
+                "id": "b9475723-0e96-4117-98b8-746981f26578",
+                "resourcePath": "sounds\\snd_underworld\\snd_underworld.yy",
                 "resourceType": "GMSound"
             }
         },

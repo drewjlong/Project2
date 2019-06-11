@@ -1,8 +1,8 @@
 {
-    "id": "4c7a1299-76bd-4fdb-b926-e41f94830b88",
+    "id": "8a9eb803-7685-40f2-bcb2-65a91b23d6b2",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_basicmusic",
+    "name": "snd_underworld",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.4
+    "volume": 0.49
 }
