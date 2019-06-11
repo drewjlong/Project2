@@ -3,6 +3,7 @@
 randomize()
 playerHealth = 3
 hasSword = false;
+hasPickAxe = false;
 if room == room2 or room == r_underworld{
 	hasSword = true
 }
@@ -16,4 +17,5 @@ canMove = true
 swordDirection = 0
 stamina = 3
 dash = false
-
+swordEquip = false;
+pickAxeEquip = false;
