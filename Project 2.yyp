@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "66e8054b-8bbf-4e96-a38e-636b28986a77",
+            "Value": {
+                "id": "499953d1-338c-4d07-8774-d0327cf4717f",
+                "resourcePath": "sounds\\snd_nexttext\\snd_nexttext.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6764ade5-8a60-4f16-bd3d-2ce99b3e38e7",
             "Value": {
                 "id": "57cda6db-09bf-4381-b331-8ec3260ad6cb",
