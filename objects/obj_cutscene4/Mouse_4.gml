@@ -6,3 +6,4 @@ instance_destroy(inst_75C65F0A);
 instance_destroy(inst_48CBB03B);
 instance_destroy(inst_4AB5AE1B);
 }
+audio_play_sound(snd_nexttext,5,0);

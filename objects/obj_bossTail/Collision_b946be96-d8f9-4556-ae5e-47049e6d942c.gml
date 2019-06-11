@@ -6,6 +6,7 @@ if other.y + 150 < obj_boss.y{
 	lightBoi.image_angle = 90
 }
 else if other.x < obj_boss.y{
+	audio_play_sound(snd_bosslaser,5,0);
 	instance_create_layer(207,350,"BossMechanics",obj_lightRay)
 }
 else instance_create_layer(499,350,"BossMechanics",obj_lightRay)
