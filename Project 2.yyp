@@ -1591,6 +1591,14 @@
             }
         },
         {
+            "Key": "dc57421a-f789-48d8-8d12-2dd10b7b6304",
+            "Value": {
+                "id": "71013340-3da9-42a2-a680-df2cd035890c",
+                "resourcePath": "objects\\obj_relicRock2\\obj_relicRock2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd3be530-13d1-4652-aecd-18ef26f9ed52",
             "Value": {
                 "id": "20835757-3def-4ac4-894a-042d5abc855f",
