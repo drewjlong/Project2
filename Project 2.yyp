@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "0d652ee0-b7e9-4f55-be46-cd1a83e1248d",
+            "Value": {
+                "id": "f7bdc0fb-2245-4fdd-bae0-18f1db0e9d63",
+                "resourcePath": "sounds\\snd_bossdead\\snd_bossdead.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0f2e5569-a16b-452d-a8c8-bc46c1796a8e",
             "Value": {
                 "id": "1c997ba4-61e3-46e7-8c45-db4f83745421",
@@ -796,6 +804,14 @@
                 "id": "bc165369-fd80-434b-a55e-3a074d83e2d8",
                 "resourcePath": "views\\0b184e5b-856e-43c0-b074-bcb4f6baa75c-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d651dc0-9887-48b9-bc0a-cbd0d73fd0d7",
+            "Value": {
+                "id": "7e980955-04af-4cc2-9d61-288b74965341",
+                "resourcePath": "sounds\\snd_bosshurt\\snd_bosshurt.yy",
+                "resourceType": "GMSound"
             }
         },
         {
