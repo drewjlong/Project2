@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "03a35104-b4d3-42f5-b81e-728696590576",
+            "Value": {
+                "id": "8dd9f757-1931-4df4-b698-eead18e803a0",
+                "resourcePath": "objects\\o_breakWall\\o_breakWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03b9ac34-355d-440d-9cf8-a39e9269d246",
             "Value": {
                 "id": "b8afd7cf-dc73-4f15-898c-0f102f9cea27",
@@ -975,6 +983,14 @@
             }
         },
         {
+            "Key": "889f3e08-2985-497b-919e-28731699c772",
+            "Value": {
+                "id": "ea03a527-e49f-4a43-98d3-ada4416adb8e",
+                "resourcePath": "sprites\\spr_breakWall\\spr_breakWall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88b53aac-bd15-4224-9240-22f1b7ab5e95",
             "Value": {
                 "id": "de906f77-1d60-43ff-bcd5-06c26cce42a9",
@@ -1452,6 +1468,14 @@
                 "id": "56b9ec8e-2430-4fe0-b465-b8bc0fdd0112",
                 "resourcePath": "sprites\\spr_playerN\\spr_playerN.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c9964895-0e5f-4892-b557-e5fb51a3ce19",
+            "Value": {
+                "id": "1f4668c6-81cc-4274-bc24-e82c35a6dd9e",
+                "resourcePath": "objects\\obj_lightRay\\obj_lightRay.yy",
+                "resourceType": "GMObject"
             }
         },
         {
