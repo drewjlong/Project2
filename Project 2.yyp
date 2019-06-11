@@ -1039,6 +1039,14 @@
             }
         },
         {
+            "Key": "857f3fab-0425-4c32-baea-47bdc73f9af9",
+            "Value": {
+                "id": "63647cec-7c0d-470f-8401-6b387279b4d9",
+                "resourcePath": "tilesets\\tileset9\\tileset9.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "85ded338-738e-4a74-ba59-962f01105aa2",
             "Value": {
                 "id": "47148929-efd4-4109-9c79-73a3406b3757",
@@ -1460,6 +1468,14 @@
                 "id": "2931bd6a-b3ac-4ce4-8ca0-b46fadcfdba3",
                 "resourcePath": "views\\b99fcdbf-a157-46f5-90a6-5efc9c260324.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba7ce401-e6df-4f17-84b2-1b3ad5647665",
+            "Value": {
+                "id": "4cb5c3dd-6808-4176-97e8-9f568eaabceb",
+                "resourcePath": "sprites\\spr_overworldTile2andAHalf\\spr_overworldTile2andAHalf.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
