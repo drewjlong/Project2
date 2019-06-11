@@ -27,6 +27,7 @@ if bossHealth == 0 {
 	}
 	alarm_set(5,60)
 	bossHealth = -1
+	audio_play_sound(snd_bossdead,6,0);
 }
 if sprite_index == spr_bossTailAttack{
 	if image_speed < 0 and image_index < 1{

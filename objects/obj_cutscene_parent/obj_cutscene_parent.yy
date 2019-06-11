@@ -5,16 +5,6 @@
     "name": "obj_cutscene_parent",
     "eventList": [
         {
-            "id": "a17b8a53-1e82-4ba6-bb43-75e8ba3f0ee0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "962d5a1a-8509-4b4a-b83d-c1361de13367"
-        },
-        {
             "id": "628042ba-7159-424a-a98e-18afb22dacdc",
             "modelName": "GMEvent",
             "mvc": "1.0",

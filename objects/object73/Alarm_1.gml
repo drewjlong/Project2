@@ -1,0 +1,1 @@
+cutscene2 = cutscene2 + 1;

@@ -1,2 +1,2 @@
 /// @description To Cutscene
-room_goto(ending_cutscene)
+room_goto(ending_cutscene);
