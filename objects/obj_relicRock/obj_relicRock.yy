@@ -2,7 +2,7 @@
     "id": "dc57421a-f789-48d8-8d12-2dd10b7b6304",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_relicRock2",
+    "name": "obj_relicRock",
     "eventList": [
         {
             "id": "6c40faf8-0b11-46d7-b07e-52825816518c",
@@ -32,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
+            "m_owner": "dc57421a-f789-48d8-8d12-2dd10b7b6304"
+        },
+        {
+            "id": "9dd929dd-5b48-4683-9e86-a0c64a628ad1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
             "m_owner": "dc57421a-f789-48d8-8d12-2dd10b7b6304"
         }
     ],

@@ -1127,6 +1127,22 @@
             }
         },
         {
+            "Key": "99b76bec-e588-4929-be65-2121f3e7004c",
+            "Value": {
+                "id": "be7d29c9-01c3-4e62-9e0c-fa12d717326f",
+                "resourcePath": "objects\\obj_relic2\\obj_relic2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9bb05aaf-8dcf-4741-897f-55b892f25dcc",
+            "Value": {
+                "id": "8ab862fd-b22b-4551-bcbc-797273b2818d",
+                "resourcePath": "objects\\obj_relic1\\obj_relic1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9bdc6637-972f-4056-9d49-7e1eda66095d",
             "Value": {
                 "id": "04c427a5-f991-441f-b7d4-2cb63934fc6e",
@@ -1634,7 +1650,7 @@
             "Key": "dc57421a-f789-48d8-8d12-2dd10b7b6304",
             "Value": {
                 "id": "71013340-3da9-42a2-a680-df2cd035890c",
-                "resourcePath": "objects\\obj_relicRock2\\obj_relicRock2.yy",
+                "resourcePath": "objects\\obj_relicRock\\obj_relicRock.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1820,6 +1836,14 @@
                 "id": "2d8a33d6-8ab3-46fe-8c22-3514ed603ed1",
                 "resourcePath": "sprites\\spr_caveTile\\spr_caveTile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd02ee19-9472-415d-8f2f-b2d190098f17",
+            "Value": {
+                "id": "7d968492-2355-4477-8049-a9e3424ad78b",
+                "resourcePath": "objects\\obj_rockBreak\\obj_rockBreak.yy",
+                "resourceType": "GMObject"
             }
         },
         {

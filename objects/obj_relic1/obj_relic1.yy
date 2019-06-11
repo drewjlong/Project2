@@ -1,19 +1,10 @@
 {
-    "id": "0bf3a89c-c234-4feb-ad75-7e9f0b772bc4",
+    "id": "9bb05aaf-8dcf-4741-897f-55b892f25dcc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_pickAxeSwing",
+    "name": "obj_relic1",
     "eventList": [
-        {
-            "id": "19bc120e-134c-46aa-9dac-a3dee89e68bf",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "0bf3a89c-c234-4feb-ad75-7e9f0b772bc4"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "86b54487-3594-42bc-859f-2da07275a4e6",
+    "spriteId": "a2fe2c2f-14ac-4021-8fed-782334239411",
     "visible": true
 }

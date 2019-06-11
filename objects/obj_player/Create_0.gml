@@ -20,3 +20,5 @@ if room == room2 or room == r_underworld{
 	hasSword = true
 	swordEquip = true
 }
+hasRelic1 = false;
+hasRelic2 = false;
