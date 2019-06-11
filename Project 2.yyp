@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "5b8da66b-b245-4668-bd61-7c4216e13e7b",
+            "Value": {
+                "id": "ecbb09a5-20bc-4f85-8821-03491f714654",
+                "resourcePath": "sprites\\sprite98\\sprite98.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5c869a72-2b52-4b56-b29c-65d567a875ef",
             "Value": {
                 "id": "78fa0d11-aa6b-4200-bcf4-1132fef05726",
@@ -2036,6 +2044,14 @@
                 "id": "31110d5f-de63-48b3-ba49-0c793528921f",
                 "resourcePath": "views\\fef52bc4-df7d-4cb6-a437-2b5ae93ee2fb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff90789a-54d4-4cd9-9257-801cd30c9106",
+            "Value": {
+                "id": "e5da61c5-4123-4f1f-96d5-64ef1a7d5570",
+                "resourcePath": "objects\\obj_gottagofastBryce2019\\obj_gottagofastBryce2019.yy",
+                "resourceType": "GMObject"
             }
         },
         {
