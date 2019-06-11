@@ -1,8 +1,8 @@
 {
-    "id": "bc95acb8-2088-4b99-a674-cb3fcb0971a5",
+    "id": "3d7edc55-eac7-4786-876f-b27feaf380c0",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_playerdead",
+    "name": "snd_pickuppickax",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.15
+    "volume": 0.1
 }
