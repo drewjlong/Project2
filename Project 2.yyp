@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "13495b1b-148c-4083-b205-d9229c1c5180",
+            "Value": {
+                "id": "ab9e8278-4d4b-48d3-a6f8-04c3271eca4c",
+                "resourcePath": "sounds\\snd_boulderbreak\\snd_boulderbreak.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "13e0789b-811a-4978-92b1-74f1cb3a90f2",
             "Value": {
                 "id": "6b28712f-46f6-441d-bb57-77d1968e1467",
@@ -420,6 +428,14 @@
                 "id": "84b698e0-6269-445c-a651-7220d02f5f12",
                 "resourcePath": "sprites\\spr_stamina3\\spr_stamina3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "390cf14f-e26c-495b-b451-31b0e2ebfaf1",
+            "Value": {
+                "id": "a497d0f3-ce85-4ef3-a11d-2d07aa2fc5e7",
+                "resourcePath": "sounds\\snd_bosslaser\\snd_bosslaser.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1364,6 +1380,14 @@
                 "id": "2931bd6a-b3ac-4ce4-8ca0-b46fadcfdba3",
                 "resourcePath": "views\\b99fcdbf-a157-46f5-90a6-5efc9c260324.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bb07e928-b836-4647-b586-31a0e8c9d5f1",
+            "Value": {
+                "id": "c9263386-c291-439b-991d-fee176ed8a69",
+                "resourcePath": "sounds\\snd_bosslaseridle\\snd_bosslaseridle.yy",
+                "resourceType": "GMSound"
             }
         },
         {

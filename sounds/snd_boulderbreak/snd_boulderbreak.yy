@@ -1,8 +1,8 @@
 {
-    "id": "ed03407e-f897-4643-aec8-29dd055eaf0e",
+    "id": "13495b1b-148c-4083-b205-d9229c1c5180",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_enemyattack",
+    "name": "snd_boulderbreak",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.23
+    "volume": 1
 }
