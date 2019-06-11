@@ -5,6 +5,6 @@ if alreadyCollided{
 	if instance_exists(enemy1) == false
 	and instance_exists(enemy2) == false
 	and instance_exists(enemy3) == false {
-		instance_destroy(treeWall)
+		instance_destroy(treeWall);
 	}
 }

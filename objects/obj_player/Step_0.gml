@@ -46,5 +46,7 @@ if(playerHealth == 0){
 	audio_play_sound(snd_playerdead,5,0);
 	room_restart()
 }
-
+if(inArea == true and hasRelic1 == true and hasRelic2 == true){
+	instance_destroy(obj_caveClosed);
+}
 

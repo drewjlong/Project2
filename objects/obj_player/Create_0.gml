@@ -22,3 +22,4 @@ if room == room2 or room == r_underworld{
 }
 hasRelic1 = false;
 hasRelic2 = false;
+inArea = false;
