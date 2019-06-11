@@ -1551,6 +1551,14 @@
             }
         },
         {
+            "Key": "d293f992-dc03-4627-b453-c8d5cd79fc25",
+            "Value": {
+                "id": "4ddbf6fe-3c20-49e3-9977-d457465f3083",
+                "resourcePath": "sprites\\spr_rockBreak\\spr_rockBreak.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d2c7f512-05c5-4251-ac11-b3bc0fbc699b",
             "Value": {
                 "id": "0b8c3f50-4f1b-40b9-87e7-93778fe33a87",
