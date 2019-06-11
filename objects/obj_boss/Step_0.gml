@@ -19,8 +19,7 @@ if canAttack {
 	attackRoll ++
 }
 if bossHealth == 0 {
-	obj_player.image_xscale = 50;
-	obj_player.image_yscale = 50;
+	room_speed = 1
 }
 if sprite_index == spr_bossTailAttack{
 	if image_speed < 0 and image_index < 1{
