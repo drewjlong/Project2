@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 canAttack = false
-attackRoll = 2
-bossHealth = 1
+attackRoll = 0
+bossHealth = 3
 alarm_set(3,100)
 bossFire = noone
 bossTail = noone
