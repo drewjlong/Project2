@@ -19,7 +19,14 @@ if canAttack {
 	attackRoll ++
 }
 if bossHealth == 0 {
-	room_speed = 1
+	if instance_exists(o_enemy){
+		instance_destroy(o_enemy)
+	}
+	if instance_exists(o_rangedEnemy){
+		instance_destroy(o_rangedEnemy)
+	}
+	alarm_set(5,60)
+	bossHealth = -1
 }
 if sprite_index == spr_bossTailAttack{
 	if image_speed < 0 and image_index < 1{

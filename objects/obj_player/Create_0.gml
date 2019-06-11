@@ -4,9 +4,6 @@ randomize()
 playerHealth = 3
 hasSword = false;
 hasPickAxe = false;
-if room == room2 or room == r_underworld{
-	hasSword = true
-}
 global.pressed = 0
 global.pressed1 = false
 invincible = false;
@@ -19,3 +16,7 @@ stamina = 3
 dash = false
 swordEquip = false;
 pickAxeEquip = false;
+if room == room2 or room == r_underworld{
+	hasSword = true
+	swordEquip = true
+}
